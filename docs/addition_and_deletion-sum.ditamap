@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>文献导入与删除</title>
+    <topicref href="adding_from_local.dita">
+        <topicref
+            href="../Zotero-%E5%AF%BC%E5%85%A5%E6%96%87%E7%8C%AE-%E5%BC%A0%E9%A6%A8%E5%8C%80/add_items_from_on_premises.ditamap"
+            format="ditamap"/>
+        <topicref
+            href="../Zotero-%E7%BD%91%E9%A1%B5%E5%AF%BC%E5%85%A5%E6%96%87%E7%8C%AE/adding_items_from_browser.ditamap"
+            format="ditamap"/>
+        <topicref href="../Zotero-%E4%BB%8EISBN%E5%AF%BC%E5%85%A5/add_item_by_isbn.dita"/>
+    </topicref>
+    <topicref
+        href="../Zotero-%E5%88%A0%E9%99%A4%E6%96%87%E7%8C%AE/%E5%88%A0%E9%99%A4%E6%96%87%E7%8C%AE.dita">
+        <topicref href="../Zotero-%E5%88%A0%E9%99%A4%E6%96%87%E7%8C%AE/deletion_of_items.ditamap"
+            format="ditamap"/>
+    </topicref>
+    <topicref
+        href="../Zotero-%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85/%E5%AE%89%E8%A3%85zotero%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6.dita">
+        <topicref
+            href="../Zotero-%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85/installation_of_browser_plug_in.ditamap"
+            format="ditamap"/>
+    </topicref>
+</map>
