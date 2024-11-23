@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="join_a_shared_library">
+    <title>加入群组共享文献库——官网群组搜索</title>
+    <shortdesc>本文档将指导您如何通过官网群组搜索加入别人建立的Zotero共享文献库。</shortdesc>
+    <taskbody>
+        <prereq id="prereq_o4g_q3n_ldc">确保您拥有Zotero账户，并且在桌面端已经登录。同时，您需要知道共享文献库群组的名称及详细信息。<note
+                id="note_xb4_qqn_ldc">适用于 Public Closed、Public Open 两种类型的群组，所有人均可操作。
+            </note></prereq>
+        <context><p>在Zotero中，您可以在网页端加入由他人创建并共享的文献库，以便共同使用和管理文献资源，网页端加入群组后将会自动同步到桌面端。</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>在Zotero网页端登陆到您的个人账户，链接如下<xref href="https://www.zotero.org/user/login/"
+                        format="html" scope="external"/></cmd>
+                <info><image
+                        href="%E5%9B%BE%E7%89%87/%E7%BD%91%E9%A1%B5%E7%89%88%E7%99%BB%E9%99%86%E8%B4%A6%E6%88%B7.png"
+                        width="500" height="350" id="image_bwx_bjn_ldc"/></info>
+            </step>
+            <step>
+                <cmd>在Zotero网页版界面的上方菜单栏，点击<uicontrol>Groups</uicontrol>选项，如图所示。</cmd>
+                <info><image href="%E5%9B%BE%E7%89%87/%E7%BD%91%E9%A1%B5%E7%89%88group.png"
+                        width="500" height="350" id="image_s5w_nnl_ldc"/></info>
+            </step>
+            <step>
+                <cmd>在群组页面，点击<uicontrol>Search for Groups</uicontrol>选项，如图所示。</cmd>
+                <info><image
+                        href="%E5%9B%BE%E7%89%87/%E7%BD%91%E9%A1%B5%E7%AB%AF%E5%8A%A0%E5%85%A5%E7%BE%A4%E7%BB%84.png"
+                        width="500" height="350" id="image_tm5_rjn_ldc"/></info>
+            </step>
+            <step>
+                <cmd>在 Zotero 官网群组搜索页面，可以通过群组的名称，搜索到目标群组，如图所示。</cmd>
+                <info><image
+                        href="%E5%9B%BE%E7%89%87/%E7%BD%91%E9%A1%B5%E7%AB%AF%E6%90%9C%E7%B4%A2%E7%BE%A4%E7%BB%84.png"
+                        width="480" height="350" id="image_ocg_tkn_ldc"/></info>
+            </step>
+            <step>
+                <cmd>在接下来的搜索结果页面中点击目标群组名称，进入该群组的主页，如图所示。</cmd>
+                <info><image
+                        href="%E5%9B%BE%E7%89%87/%E8%BF%9B%E5%85%A5%E7%BE%A4%E7%BB%84%E4%B8%BB%E9%A1%B5.png"
+                        width="490" height="350" id="image_eth_dln_ldc"/></info>
+            </step>
+            <step>
+                <cmd>在群组主页右侧点击 <uicontrol>Join</uicontrol>选项，即可申请加入该群组，如图所示。 </cmd>
+                <info><image
+                        href="%E5%9B%BE%E7%89%87/%E7%94%B3%E8%AF%B7%E5%8A%A0%E5%85%A5%E7%BE%A4%E7%BB%84.png"
+                        width="500" height="350" id="image_pt3_nln_ldc"/><note id="note_zdf_sln_ldc">
+                        <ol>
+                            <li>Public Open 的群组点击 Join 之后即可加入。</li>
+                            <li>Public Closed 的群组需要等管理员或者群主通过申请才可以加入。</li>
+                        </ol>
+                    </note></info>
+            </step>
+        </steps>
+        <result id="result_rwx_lsn_ldc">您已成功加入群组并可以访问共享文献库。</result>
+        <postreq id="postreq_syy_msn_ldc">加入群组后，您可能需要根据群组规则和项目需求，更新您的文献管理习惯。</postreq>
+    </taskbody>
+</task>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="creating_new_folders">
+    <title>新建文件夹</title>
+    <shortdesc>本节将帮助您了解如何在Zotero中创建新的文件夹，以便您能够更有条理地组织和管理您的文献资料。</shortdesc>
+    <taskbody>
+        <context>
+            <p>在Zotero中，创建文件夹是管理文献库的基础步骤。您将了解如何通过简单的右键菜单操作来创建文件夹，并为这些文件夹命名，从而为您的文献资料建立一个清晰的结构。</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>在左侧的导航窗格上方，点击<uicontrol>新建文件夹</uicontrol>图标，如图所示。</cmd>
+                <info><image
+                        href="%E5%9B%BE%E7%89%87/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9-%E5%8F%B3%E9%94%AE%E6%88%91%E7%9A%84%E6%96%87%E6%A1%A3.png"
+                        width="500" id="image_xzk_xvj_ldc" height="390"/></info>
+            </step>
+            <step>
+                <cmd>在弹出的对话框内输入新建文件夹的名称以及目标位置，如图所示。</cmd>
+                <info><image
+                        href="%E5%9B%BE%E7%89%87/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9-%E5%91%BD%E5%90%8D%E6%96%87%E4%BB%B6%E5%A4%B9.png"
+                        width="500" height="390" id="image_lqy_pwj_ldc"/></info>
+            </step>
+            <step>
+                <cmd>点击<uicontrol>创建分类</uicontrol>，或按下回车键，确认创建文件夹，如图所示。</cmd>
+                <info><image
+                        href="%E5%9B%BE%E7%89%87/%E6%96%B0%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9-%E7%A1%AE%E8%AE%A4%E5%88%9B%E5%BB%BA%E6%96%87%E4%BB%B6%E5%A4%B9.png"
+                        width="500" height="390" id="image_l2x_txj_ldc"/></info>
+            </step>
+        </steps>
+        <result id="result_q3v_5xj_ldc">一个新的文件夹将被创建在您的Zotero文库中，您可以开始将文献资料添加到这个文件夹中。</result>
+    </taskbody>
+</task>
