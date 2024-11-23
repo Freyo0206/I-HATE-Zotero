@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Zotero浏览器插件安装</title>
+    <topicref href="why_need_browser_plug_ins.dita"/>
+    <topicref href="download_browser_plug_in.dita"/>
+    <topicref href="plug_in_is_not_on_page.dita"/>
+    <topicref href="plug_in_is_not_usable.dita"/>
+</map>

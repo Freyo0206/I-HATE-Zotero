@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>从网页导入文献</title>
+    <topicref href="add_items_from_webpage.dita"/>
+    <topicref href="adding_data_from_webpage.dita"/>
+</map>
