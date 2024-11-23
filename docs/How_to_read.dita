@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_yzk_gsw_kdc">
+    <title>使用Zotero阅读文献</title>
+    <shortdesc>Zotero作为文献管理软件，阅读文献是最基础的一项功能。为了使阅读、管理文献的过程更加便捷、流畅，此文档提供使用Zotero打开、阅读文献的方式以及一些功能的介绍。</shortdesc>
+    <taskbody>
+        <prereq id="prereq_yfv_mtw_kdc">确保该程序能够正常在您的电子设备上打开，如有需求可安装其他辅助插件帮助阅读（链接跳转）</prereq>
+        <context/>
+        <steps>
+            <step>
+                <cmd>打开文献</cmd>
+                <substeps id="substeps_umg_tyw_kdc">
+                    <substep>
+                        <cmd>从Zotero程序中双击打开目标文献</cmd>
+                        <info><image href="image/doubleclick.jpg" width="600" id="image_nb4_mmz_ldc"
+                            /></info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>便捷功能（未安装插件）</cmd>
+                <substeps id="substeps_kns_tzw_kdc">
+                    <substep>
+                        <cmd>对文献内容进行高亮/下划线显示</cmd>
+                        <info>1. <b>高亮显示</b>：用鼠标左键选中目标文字，通过弹出的提示框选择高亮颜色</info>
+                        <info><image href="image/select.jpg" width="600" id="image_jrl_nmz_ldc"
+                            /></info>
+                        <info>2. <b>下划线显示</b>：在同一提示框中选择左侧按钮，之后对下划线的颜色进行选择</info>
+                        <info><image href="image/underline.jpg" width="600" id="image_ggl_4mz_ldc"
+                            /></info>
+                    </substep>
+                    <substep>
+                        <cmd>添加笔记</cmd>
+                        <info>Step 1-点击添加笔记按钮（右侧颜色框可对笔记便条的颜色进行选取）</info>
+                        <info><image href="image/note.jpg" width="600" id="image_c5f_pmz_ldc"
+                            /></info>
+                        <info>Step 2-点击阅读器文档内任意位置以创建新的便签，并键入笔记（完成后点击页面任意位置可隐藏笔记）</info>
+                        <info><image href="image/comment.jpg" width="600" id="image_dfz_pmz_ldc"
+                            /></info>
+                    </substep>
+                    <substep>
+                        <cmd>新增文字</cmd>
+                        <info>Step 1-点击左侧按钮（右侧颜色框可对颜色进行选择）</info>
+                        <info><image href="image/type.jpg" width="600" id="image_ayw_qmz_ldc"
+                            /></info>
+                        <info>Step 2-点击阅读器任意位置以键入文字</info>
+                        <info><image href="image/typing.jpg" width="600" id="image_ebv_rmz_ldc"
+                            /></info>
+                    </substep>
+                    <substep>
+                        <cmd>区域选中</cmd>
+                        <info>Step 1-点击左侧按钮（右侧颜色框可对颜色进行选择）</info>
+                        <info><image href="image/kuang.jpg" width="600" id="image_c54_smz_ldc"
+                            /></info>
+                        <info>Step 2-按住鼠标左键选中目标区域</info>
+                        <info><image href="image/zone.jpg" width="600" id="image_yzk_tmz_ldc"
+                            /></info>
+                    </substep>
+                    <substep>
+                        <cmd>在文档内绘制图形或笔迹</cmd>
+                        <info>点击左侧按钮（右侧颜色框可对颜色进行选择），之后可在阅读框范围内添加笔迹</info>
+                        <info><image href="image/draw.jpg" width="600" id="image_wvc_5mz_ldc"
+                            /></info>
+                    </substep>
+                    <substep>
+                        <cmd>放大、缩放与重置</cmd>
+                        <info>标注中的三个按钮分别为缩小、放大、恢复默认（用户也可通过触控板进行操作）</info>
+                        <info><image href="image/size.jpg" width="600" id="image_eq5_xmz_ldc"
+                            /></info>
+                    </substep>
+                    <substep>
+                        <cmd>同个文档进行对比阅读时，可对页面进行切分</cmd>
+                        <info>在页面内点击鼠标右键，根据需求进行选取</info>
+                        <info><image href="image/cut.jpg" width="600" id="image_zpk_ymz_ldc"
+                            /></info>
+                    </substep>
+                    <substep>
+                        <cmd>添加标签以对文献进行分类</cmd>
+                        <info>Step 1-点击方框中的按钮</info>
+                        <info><image href="image/window.jpg" width="600" id="image_aqd_zmz_ldc"
+                            /></info>
+                        <info>Step 2-点击方框中按钮以添加标签</info>
+                        <info><image href="image/tip.jpg" width="600" id="image_zdv_1nz_ldc"
+                            /></info>
+                    </substep>
+                    <substep>
+                        <cmd>关联相关文档</cmd>
+                        <info>Step 1-点击方框中的按钮</info>
+                        <info><image href="image/window.jpg" width="600" id="image_xhv_dnz_ldc"
+                            /></info>
+                        <info>Step 2-点击方框中的按钮</info>
+                        <info><image href="image/link.jpg" width="600" id="image_dct_2nz_ldc"
+                            /></info>
+                        <info>Step 3-选择想要链接到的文献，点击选择</info>
+                        <info><image href="image/article.jpg" width="600" id="image_d1l_fnz_ldc"
+                            /></info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>更多便捷功能（已安装插件）（此处为3款常用插件，更多内容可浏览<xref
+                        href="https://www.zotero.org/support/plugins" format="html" scope="external"
+                    />自行下载</cmd>
+                <info>(注：安装插件后若无法使用，可尝试重启软件）</info>
+                <substeps id="substeps_zg5_dsj_ldc">
+                    <substep>
+                        <cmd>翻译功能</cmd>
+                        <info>可通过<xref href="add_translationplugin.dita" format="dita"
+                            >翻译插件</xref>安装教程进行安装</info>
+                        <info>翻译功能使用：</info>
+                        <info>Step 1-在设置中对需要转换的语言进行设置</info>
+                        <info><image href="image/language.jpg" width="600" id="image_vlh_gnz_ldc"
+                            /></info>
+                        <info>Step 2-在文档中对需要进行翻译的文字进行选中，翻译框会自动弹出</info>
+                        <info><image href="image/late.jpg" width="600" id="image_v3b_hnz_ldc"
+                            /></info>
+                    </substep>
+                    <substep>
+                        <cmd>添加标签功能</cmd>
+                        <info>可通过<xref href="add_tagsplugin.dita" format="dita"
+                            >标签插件</xref>安装教程进行安装</info>
+                        <info>Step 1-在Zotero的设置中打开<uicontrol>Anctions
+                            &amp;Tags</uicontrol>的设置</info>
+                        <info><image href="image/ant.jpg" width="600" id="image_azr_hnz_ldc"
+                            /></info>
+                        <info>Step 2-创建新动作</info>
+                        <info><image href="image/newaction.jpg" width="600" id="image_ofv_3nz_ldc"
+                            /></info>
+                        <info>Step 3-对新动作进行设置（图中为示例，用户可根据偏好设置）</info>
+                        <info><image href="image/exa.jpg" width="600" id="image_czm_knz_ldc"
+                            /></info>
+                        <info>Step 4-选中目标文档，使用设置好的快捷键进行操作</info>
+                        <info><image href="image/ico.jpg" width="600" id="image_lks_lnz_ldc"
+                            /></info>
+                        <info>Step 5-标记成功</info>
+                    </substep>
+                    <substep>
+                        <cmd>提取目标文献的参考文献</cmd>
+                        <info>可通过<xref href="add_referenceplug.dita" format="dita"
+                            >参考文献提取插件</xref>安装教程进行安装</info>
+                        <info>Step 1-确保需要提取的文献所列出的参考文献格式可读（推荐读取从知网等学术网站中直接导入的文献）</info>
+                        <info>Step 2-点击右侧菜单栏中的<uicontrol>参考文献</uicontrol>选项</info>
+                        <info><image href="image/rence.jpg" width="600" id="image_asd_pxz_ldc"
+                            /></info>
+                        <info>Step 3-点击此按钮进行解析</info>
+                        <info><image href="image/jie.jpg" width="600" id="image_tkm_rxz_ldc"
+                            /></info>
+                        <info>Step 4-如果需要对某篇文献进行引用可将鼠标移动到文献的选项框上，然后点击<uicontrol>Import to
+                                Zotero</uicontrol>，会跳转至目标文献的网页，之后按照正常导入程序进行导入即可</info>
+                        <info><image href="image/import.jpg" width="600" id="image_kxd_byz_ldc"
+                            /></info>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+    <related-links>
+        <link href="add_translationplugin.dita" format="dita"/>
+        <link href="add_tagsplugin.dita" format="dita"/>
+        <link href="add_referenceplug.dita" format="dita"/>
+    </related-links>
+</task>

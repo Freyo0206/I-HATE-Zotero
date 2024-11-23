@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_yfp_bqx_kdc">
+    <title>如何添加文献翻译插件</title>
+    <shortdesc>作为文献管理软件，Zotero的开发者提供了对文献进行翻译的插件，下面将分步骤介绍如何安装该插件</shortdesc>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>访问Zotero官方提供的插件库网址：<xref href="https://www.zotero.org/support/plugins"
+                        format="html" scope="external"/>（或中文镜像网站<xref
+                        href="https://zotero-chinese.com/plugins/#tags=favorite" format="html"
+                        scope="external"/>）</cmd>
+            </step>
+            <step>
+                <cmd>在<uicontrol>Inter Face</uicontrol>分类下找到<uicontrol>PDF Translate</uicontrol>
+                    （注：目前大陆地区无法访问，此处访问链接需要使用境外VPN）</cmd>
+                <info><image href="image/transplug.jpg" width="600" id="image_i2c_tnz_ldc"/></info>
+            </step>
+            <step>
+                <cmd>访问成功后，将网页下拉，在Readme板块中找到这个链接，点击进入</cmd>
+                <info><image href="image/latest.jpg" width="600" id="image_imy_tnz_ldc"/></info>
+            </step>
+            <step>
+                <cmd>下载下图中圈出的文件</cmd>
+                <info><image href="image/download.jpg" width="600" id="image_f4s_d4z_ldc"/></info>
+            </step>
+            <step>
+                <cmd>在Zotero软件中的<uicontrol>工具</uicontrol>栏点击<uicontrol>插件</uicontrol></cmd>
+                <info><image href="image/plug.jpg" width="600" id="image_hqp_24z_ldc"/></info>
+            </step>
+            <step>
+                <cmd>点击该图标</cmd>
+                <info><image href="image/gear.jpg" width="600" id="image_n1d_g4z_ldc"/></info>
+            </step>
+            <step>
+                <cmd>选择<uicontrol>Install Plugin From File</uicontrol>选项</cmd>
+                <info><image href="image/install.jpg" width="600" id="image_f2w_g4z_ldc"/></info>
+            </step>
+            <step>
+                <cmd>选择刚刚下载好的<uicontrol>.xpi文件</uicontrol>并打开</cmd>
+                <info><image href="image/open.jpg" width="400" id="image_sjt_h4z_ldc"/></info>
+            </step>
+            <step>
+                <cmd>在Zotero软件中打开设置</cmd>
+                <info><image href="image/set.jpg" width="600" id="image_kc4_34z_ldc"/></info>
+            </step>
+            <step>
+                <cmd>在左侧菜单栏选择<uicontrol>翻译</uicontrol></cmd>
+                <info><image href="image/translate.jpg" width="200" id="image_ecp_j4z_ldc"/></info>
+            </step>
+            <step>
+                <cmd>选择其中一个引擎并配置API密钥，并在输入框中输入</cmd>
+                <info><image href="image/key.jpg" width="600" id="image_k5t_k4z_ldc"/></info>
+                <stepresult>安装完毕</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>
