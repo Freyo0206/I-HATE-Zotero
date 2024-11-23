@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="organizing_documents_with_tags_and_notes">
+    <title>使用标签与备注组织文献</title>
+    <shortdesc>本节介绍如何在Zotero中使用标签和备注来组织和管理您的文献资料。</shortdesc>
+    <taskbody>
+        <prereq id="prereq_tx4_qdk_ldc">在开始之前，请确保您已经在Zotero中添加了一些文献资料。</prereq>
+        <context><p>使用标签和备注可以帮助您更有效地对文献进行分类和注释，从而提高研究和写作的效率。标签可以用来标记文献的关键特征，如研究领域、作者或项目名称，而备注则可以用来记录个人对文献的评论或笔记。</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>在文献库中选择您想要添加标签或备注的文献。单击文献条目，这将在右侧面板显示文献的详细信息。</cmd>
+            </step>
+            <step>
+                <cmd>在右侧面板中，找到<uicontrol><image
+                            href="%E5%9B%BE%E7%89%87/%E6%A0%87%E7%AD%BE%E5%9B%BE%E6%A0%87.png"
+                            width="40" height="40" id="image_nlt_s2k_ldc"
+                    /></uicontrol>图标。点击该图标，然后输入您的标签名称，按回车键确认。如图所示。</cmd>
+                <info><image href="%E5%9B%BE%E7%89%87/%E6%B7%BB%E5%8A%A0%E6%A0%87%E7%AD%BE.png"
+                        width="500" height="390" id="image_mqy_bfk_ldc"/></info>
+            </step>
+            <step>
+                <cmd>同样在右侧面板中，找到<uicontrol><image
+                            href="%E5%9B%BE%E7%89%87/%E5%A4%87%E6%B3%A8%E6%A0%87%E7%AD%BE.png"
+                            width="40" height="40" id="image_vlz_hfk_ldc"
+                    /></uicontrol>图标。点击该图标，然后输入您的备注内容。如图所示。</cmd>
+                <info><image href="%E5%9B%BE%E7%89%87/%E6%B7%BB%E5%8A%A0%E5%A4%87%E6%B3%A8.png"
+                        width="500" height="390" id="image_t52_sfk_ldc"/></info>
+            </step>
+        </steps>
+        <result id="result_t32_xfk_ldc">文献将被标记上您添加的标签，并附有您的备注，便于未来的检索和参考。如图所示。<image
+                href="%E5%9B%BE%E7%89%87/%E6%A0%87%E7%AD%BE%E5%92%8C%E5%A4%87%E6%B3%A8%E5%AE%8C%E6%88%90.png"
+                width="400" height="290" id="image_e5s_1gk_ldc"/></result>
+        <example id="example_wf5_ggk_ldc">例如，如果您正在研究“人工智能”领域，您可以为相关文献添加“人工智能”标签，并在备注中记录下您对每篇文献的主要观点或批评。</example>
+        <postreq id="postreq_okl_2gk_ldc">完成标签和备注的添加后，您可能需要定期回顾和更新这些信息，以保持您的文献库的准确性和相关性。</postreq>
+    </taskbody>
+</task>
