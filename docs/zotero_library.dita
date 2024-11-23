@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="zotero_library">
+    <title>文献库</title>
+    <shortdesc>文献库是Zotero中用户管理和存储所有文献资料的核心区域。这里汇集了用户收集的所有文献条目，包括书籍、期刊文章、会议论文等。</shortdesc>
+    <body>
+        <p><image href="%E5%9B%BE%E7%89%87/%E6%96%87%E7%8C%AE%E5%BA%93.png" width="500" height="350"
+                id="image_ahr_dnz_kdc"/></p>
+    </body>
+</topic>
