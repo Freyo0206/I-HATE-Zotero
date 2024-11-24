@@ -13,25 +13,25 @@
                 <cmd>找到安装包的位置，双击触控板或鼠标左键打开。</cmd>
                 <info><image
                         href="../%E5%9B%BE%E7%89%87/win%E5%AE%89%E8%A3%85/win%E5%AE%89%E8%A3%85%E5%8C%85.jpg"
-                        width="300" id="image_qfz_wxz_ldc"/></info>
+                        width="400" id="image_qfz_wxz_ldc"/></info>
             </step>
             <step>
                 <cmd>点击<uicontrol>Next></uicontrol>。</cmd>
                 <info><image
                         href="../%E5%9B%BE%E7%89%87/win%E5%AE%89%E8%A3%85/%E5%AE%89%E8%A3%851.jpg"
-                        width="300" id="image_f1d_zxz_ldc"/></info>
+                        width="400" id="image_f1d_zxz_ldc"/></info>
             </step>
             <step>
                 <cmd>若采用默认安装路径，则选择<uicontrol>Standard</uicontrol>后点击<uicontrol>Next></uicontrol>，并跳过第4步；若需自定义安装路径，选择<uicontrol>Custom</uicontrol>后点击<uicontrol>Next></uicontrol>。</cmd>
                 <info><image
                         href="../%E5%9B%BE%E7%89%87/win%E5%AE%89%E8%A3%85/%E5%AE%89%E8%A3%852.jpg"
-                        width="300" id="image_fxt_byz_ldc"/></info>
+                        width="400" id="image_fxt_byz_ldc"/></info>
             </step>
             <step>
                 <cmd>点击<uicontrol>Browse</uicontrol>，选择好安装路径后，点击<uicontrol>Next></uicontrol>。</cmd>
                 <info><image
                         href="../%E5%9B%BE%E7%89%87/win%E5%AE%89%E8%A3%85/%E5%AE%89%E8%A3%853.jpg"
-                        width="300" id="image_xg3_gzz_ldc"/></info>
+                        width="400" id="image_xg3_gzz_ldc"/></info>
             </step>
             <step>
                 <cmd>若需要在桌面创建Zotero图标，则勾选<uicontrol>On my
@@ -39,32 +39,35 @@
                         Programs folder</uicontrol>。完成后点击<uicontrol>Next></uicontrol>。</cmd>
                 <info><image
                         href="../%E5%9B%BE%E7%89%87/win%E5%AE%89%E8%A3%85/%E5%AE%89%E8%A3%854.jpg"
-                        width="300" id="image_mgw_jzz_ldc"/></info>
+                        width="400" id="image_mgw_jzz_ldc"/></info>
             </step>
             <step>
                 <cmd>点击<uicontrol>Install</uicontrol>，开始安装。</cmd>
                 <info><image
                         href="../%E5%9B%BE%E7%89%87/win%E5%AE%89%E8%A3%85/%E5%AE%89%E8%A3%855.jpg"
-                        width="300" id="image_zlj_vzz_ldc"/></info>
+                        width="400" id="image_zlj_vzz_ldc"/></info>
             </step>
             <step>
                 <cmd>安装完成后，点击Finish</cmd>
                 <info><image
                         href="../%E5%9B%BE%E7%89%87/win%E5%AE%89%E8%A3%85/%E5%AE%89%E8%A3%856.jpg"
-                        width="300" id="image_rvh_xzz_ldc"/></info>
+                        width="400" id="image_rvh_xzz_ldc"/></info>
             </step>
             <step>
                 <cmd>若能在桌面或安装路径下找到Zotero图标，即安装成功。</cmd>
                 <info><image
                         href="../%E5%9B%BE%E7%89%87/win%E5%AE%89%E8%A3%85/%E5%9B%BE%E6%A0%87.jpg"
-                        width="150" id="image_m2v_111_mdc"/></info>
+                        width="300" id="image_m2v_111_mdc"/></info>
                 <info><image
                         href="../%E5%9B%BE%E7%89%87/win%E5%AE%89%E8%A3%85/%E5%AE%89%E8%A3%85%E8%B7%AF%E5%BE%84%E4%B8%AD%E7%9A%84%E5%9B%BE%E6%A0%87.jpg"
-                        width="300" id="image_lyv_311_mdc"/></info>
+                        width="500" id="image_lyv_311_mdc"/></info>
             </step>
             <step>
                 <cmd>双击图标，即可启动Zotero。</cmd>
             </step>
         </steps>
     </taskbody>
+    <related-links>
+        <link href="install_mac.dita" format="dita"/>
+    </related-links>
 </task>

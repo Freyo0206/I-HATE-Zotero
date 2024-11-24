@@ -20,8 +20,6 @@
                 <topicref href="dita%E6%96%87%E4%BB%B6/install_ts_mac.dita"/>
             </topicref>
         </topicref>
-        <topicref href="dita%E6%96%87%E4%BB%B6/topic_1.3_other_ver.dita">
-            <topicref href="dita%E6%96%87%E4%BB%B6/download_other_ver.dita"/>
-        </topicref>
+        <topicref href="dita%E6%96%87%E4%BB%B6/download_other_ver.dita"/>
     </topicref>
 </map>

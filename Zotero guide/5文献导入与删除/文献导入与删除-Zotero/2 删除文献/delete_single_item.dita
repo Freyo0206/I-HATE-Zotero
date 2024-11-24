@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="delete_single_item">
+    <title>删除单条文献</title>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>右键单击需要删除的文献，在弹出的菜单里选择<uicontrol>删除条目</uicontrol>。</cmd>
+                <info><image
+                        href="%E6%88%AA%E5%B1%8F/%E5%88%A0%E9%99%A4%E5%8D%95%E6%9D%A1%E6%9D%A1%E7%9B%AE.png"
+                        width="600" id="image_u3f_b45_ldc"/></info>
+            </step>
+            <step>
+                <cmd>Zotero会跳出对话框，询问是否要将条目移入回收站。</cmd>
+                <info><image href="%E6%88%AA%E5%B1%8F/%E7%A1%AE%E8%AE%A4%E5%88%A0%E9%99%A4.png"
+                        width="600" id="image_d3w_n45_ldc"/></info>
+                <info>如果点击<uicontrol>OK</uicontrol>，选中的文献将被移到回收站，如果需要彻底从Zotero数据库中删除文献，需要清理回收站。</info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

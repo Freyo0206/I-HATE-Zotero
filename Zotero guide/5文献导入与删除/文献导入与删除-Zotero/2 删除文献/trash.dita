@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="trash">
+    <title>回收站注意事项</title>
+    <shortdesc>回收站里会保存从文献库里删除的文献，会占用空间，定期清空回收站可以释放储存空间。</shortdesc>
+    <conbody>
+        <p>如果已清空回收站，文献条目会彻底删除。</p>
+    </conbody>
+</concept>

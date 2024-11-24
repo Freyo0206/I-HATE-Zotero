@@ -28,9 +28,9 @@
                         width="500" height="390" id="image_t52_sfk_ldc"/></info>
             </step>
         </steps>
-        <result id="result_t32_xfk_ldc">文献将被标记上您添加的标签，并附有您的备注，便于未来的检索和参考。如图所示。<image
-                href="%E5%9B%BE%E7%89%87/%E6%A0%87%E7%AD%BE%E5%92%8C%E5%A4%87%E6%B3%A8%E5%AE%8C%E6%88%90.png"
-                width="400" height="290" id="image_e5s_1gk_ldc"/></result>
+        <result id="result_t32_xfk_ldc">文献将被标记上您添加的标签，并附有您的备注，便于未来的检索和参考。如图所示。<p><image
+                    href="%E5%9B%BE%E7%89%87/%E6%A0%87%E7%AD%BE%E5%92%8C%E5%A4%87%E6%B3%A8%E5%AE%8C%E6%88%90.png"
+                    height="290" id="image_cms_sg3_mdc"/></p></result>
         <example id="example_wf5_ggk_ldc">例如，如果您正在研究“人工智能”领域，您可以为相关文献添加“人工智能”标签，并在备注中记录下您对每篇文献的主要观点或批评。</example>
         <postreq id="postreq_okl_2gk_ldc">完成标签和备注的添加后，您可能需要定期回顾和更新这些信息，以保持您的文献库的准确性和相关性。</postreq>
     </taskbody>

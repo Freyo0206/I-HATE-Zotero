@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="remove_item_form_folder">
+    <title>只从文件夹中移除文献</title>
+    <shortdesc>如果只需要把文献从某个特定文件夹分类中移除，而不影响"我的文库"，只需要把条目移出文件夹。</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>右键单击要移除的文献条目。</cmd>
+                <info><image
+                        href="%E6%88%AA%E5%B1%8F/%E4%BB%8E%E6%96%87%E4%BB%B6%E5%A4%B9%E7%A7%BB%E9%99%A4%E6%9D%A1%E7%9B%AE.png"
+                        width="600" id="image_ibv_jp5_ldc"/></info>
+            </step>
+            <step>
+                <cmd>在弹出的对话框中确认移除。</cmd>
+                <info><image
+                        href="%E6%88%AA%E5%B1%8F/%E7%A1%AE%E8%AE%A4%E7%A7%BB%E9%99%A4%E6%96%87%E4%BB%B6%E5%A4%B9%E6%9D%A1%E7%9B%AE.png"
+                        width="600" id="image_w53_pp5_ldc"/></info>
+                <stepresult>成功把条目从文件夹分类中移除。</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="plug_in_is_not_on_page">
+    <title>插件安装后没有显示在工具栏</title>
+    <troublebody>
+        <condition>
+            <p/>
+        </condition>
+        <troubleSolution>
+            <cause>
+                <title>原因</title>
+                <p>插件安装完毕后，网页工具栏并没有显示Zotero图标。</p>
+            </cause>
+            <remedy>
+                <title>解决办法</title>
+                <steps>
+                    <step>
+                        <cmd>重启浏览器。</cmd>
+                    </step>
+                    <step>
+                        <cmd>在浏览器页面中点击<uicontrol>更多工具</uicontrol>，再点击<uicontrol>扩展程序</uicontrol>，在弹出的菜单中找到Zotero并确认已经启动。</cmd>
+                        <info><image
+                                href="%E6%88%AA%E5%9B%BE/5%20%E6%8B%93%E5%B1%95%E7%AE%A1%E7%90%86.png"
+                                width="600" id="image_oyv_jll_ldc"/></info>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+    </troublebody>
+</troubleshooting>

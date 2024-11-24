@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="recover_item_from_trash">
+    <title>恢复删除文献</title>
+    <troublebody>
+        <condition>
+            <title>如果出现误删文献的情况</title>
+        </condition>
+        <troubleSolution>
+            <remedy>
+                <steps>
+                    <step>
+                        <cmd>点击界面左侧<uicontrol>回收站</uicontrol>。</cmd>
+                        <info><image
+                                href="%E6%88%AA%E5%B1%8F/%E5%9B%9E%E6%94%B6%E7%AB%99%E6%8C%89%E9%92%AE.png"
+                                width="600" id="image_ekt_br5_ldc"/></info>
+                    </step>
+                    <step>
+                        <cmd>右键单击要恢复的文献条目，在弹出的菜单中选择"<uicontrol>还原到文献库中</uicontrol>"。</cmd>
+                        <info><image
+                                href="%E6%88%AA%E5%B1%8F/%E4%BB%8E%E5%9B%9E%E6%94%B6%E7%AB%99%E6%81%A2%E5%A4%8D%E6%9D%A1%E7%9B%AE.png"
+                                width="600" id="image_apr_fr5_ldc"/></info>
+                    </step>
+                    <step>
+                        <cmd>点击确认恢复。</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+    </troublebody>
+</troubleshooting>

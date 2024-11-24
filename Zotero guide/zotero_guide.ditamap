@@ -2,6 +2,11 @@
 <!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
 <map>
     <title xml:lang="zh-CN">史上最好用的Zotero手册</title>
+    <topicref href="1%20Zotero%E7%AE%80%E4%BB%8B/cover_intro.dita">
+        <topicref href="1%20Zotero%E7%AE%80%E4%BB%8B/what_is_zotero.dita"/>
+        <topicref href="1%20Zotero%E7%AE%80%E4%BB%8B/functions%20of%20zotero.dita"/>
+        <topicref href="1%20Zotero%E7%AE%80%E4%BB%8B/why%20zotero.dita"/>
+    </topicref>
     <topicref href="2%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85/map_dnld_istll.ditamap"
         format="ditamap"/>
     <topicref href="3zotero%E7%95%8C%E9%9D%A2%E6%A6%82%E8%BF%B0/zotero_interface_interview.ditamap"
@@ -9,6 +14,11 @@
     <topicref
         href="4%E5%BB%BA%E7%AB%8B%E4%B8%AA%E4%BA%BA%E6%96%87%E7%8C%AE%E5%BA%93/build_your_personal_library.ditamap"
         format="ditamap"/>
+    <topicref href="5%E6%96%87%E7%8C%AE%E5%AF%BC%E5%85%A5%E4%B8%8E%E5%88%A0%E9%99%A4/cover_add.dita">
+        <topicref
+            href="5%E6%96%87%E7%8C%AE%E5%AF%BC%E5%85%A5%E4%B8%8E%E5%88%A0%E9%99%A4/maptest.ditamap"
+            format="ditamap"/>
+    </topicref>
     <topicref
         href="6%E6%96%87%E7%8C%AE%E9%98%85%E8%AF%BB%E4%B8%8E%E5%BC%95%E7%94%A8/cover_read.dita">
         <topicref
