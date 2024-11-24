@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="ts_install_mac">
+    <title>安装失败（mac版）</title>
+    <troublebody>
+        <condition>
+            <title>Condition</title>
+            <p>在Mac电脑上安装Zotero失败。</p>
+        </condition>
+        <troubleSolution>
+            <cause>
+                <title>Cause</title>
+                <p>电脑内存不足。</p>
+            </cause>
+            <remedy id="remedy_hfm_md1_mdc">
+                <title>Remedy</title>
+                <responsibleParty>Personal Computer</responsibleParty>
+                <steps id="steps_vfm_md1_mdc">
+                    <step>
+                        <cmd>清理电脑内存，确保可用空间大于软件大小。</cmd>
+                    </step>
+                    <step>
+                        <cmd>重新尝试安装。</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+        <troubleSolution>
+            <cause id="cause_en5_nd1_mdc">
+                <title>Cause</title>
+                <p>拖动过程有误。</p>
+            </cause>
+            <remedy id="remedy_fn5_nd1_mdc">
+                <title>Remedy</title>
+                <responsibleParty>Personal Computer</responsibleParty>
+                <steps id="steps_gn5_nd1_mdc">
+                    <step>
+                        <cmd>重新拖动图标，直至出现绿色加号，确保将安装包拖入文件夹内</cmd>
+                        <info><image href="../%E5%9B%BE%E7%89%87/mac%E5%AE%89%E8%A3%85/ts.jpg"
+                                width="300" id="image_vzn_nf1_mdc"/></info>
+                    </step>
+                </steps>
+            </remedy>
+            <remedy>
+                <title>更多问题请访问</title>
+                <steps-informal id="steps-informal_ld3_sb1_mdc"><xref
+                        href="https://forums.zotero.org/discussions" format="html" scope="external"
+                    /></steps-informal>
+            </remedy>
+        </troubleSolution>
+    </troublebody>
+</troubleshooting>

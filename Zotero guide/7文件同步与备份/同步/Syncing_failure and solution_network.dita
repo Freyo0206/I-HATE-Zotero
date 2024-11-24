@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="trouble_srg_fcd_mdc">
+    <title>同步过程中出现的网络连接问题及应对方式</title>
+    <troublebody>
+        <condition>
+            <title>Condition</title>
+            <p>同步过程中出现网络连接相关问题。</p>
+        </condition>
+        <troubleSolution>
+            <cause>
+                <title>Cause</title>
+                <p>Zotero 的同步功能依赖于稳定的网络连接。如果网络不稳定，可能会导致同步失败或速度缓慢。</p>
+            </cause>
+            <remedy>
+                <title>Remedy</title>
+                <steps>
+                    <step>
+                        <cmd>尽量在网络良好的环境下进行同步；如果同步出现问题，检查网络连接是否正常。</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+    </troublebody>
+</troubleshooting>

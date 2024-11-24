@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
-<map>
-    <title>从本地导入文献</title>
-    <topicref href="adding_items_to_zotero.dita"/>
-    <topicref href="edit_the_item_information.dita"/>
-    <topicref href="chose_the_wrong_type_of_item.dita"/>
-</map>

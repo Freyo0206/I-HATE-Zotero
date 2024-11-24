@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="file_syncing_zotero">
+    <title>如何使用Zotero进行文件同步</title>
+    <shortdesc>Zotero自身配置了文件同步功能，可通过Zotero完成文件同步，过程与数据同步类似。</shortdesc>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>在文件同步下，选择“‘我的文库’附件同步方式”为“Zotero”。</cmd>
+                <info><image
+                        href="../images/%E5%90%8C%E6%AD%A5/%E6%96%87%E4%BB%B6%E5%90%8C%E6%AD%A5Zotero.jpg"
+                        width="600" id="image_tf1_s4c_mdc"/></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

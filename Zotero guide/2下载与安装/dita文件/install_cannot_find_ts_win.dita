@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="ts_win_cannot_find">
+    <title>无法找到Zotero图标（win版）</title>
+    <troublebody>
+        <condition>
+            <title>Condition</title>
+            <p>找不到Zotero的图标，无法使用。</p>
+        </condition>
+        <troubleSolution>
+            <cause>
+                <title>Cause</title>
+                <p>安装时未勾选<uicontrol>On my Desktop</uicontrol>。</p>
+            </cause>
+            <remedy>
+                <title>Remedy</title>
+                <steps>
+                    <step>
+                        <cmd>若安装时选择<uicontrol>Standard</uicontrol>，则打开电脑C盘，打开<uicontrol>Program
+                                Files
+                            (x86)</uicontrol>文文件夹，进入<uicontrol>Zotero</uicontrol>文件夹，找到Zotero图标，双击即可使用。</cmd>
+                        <info><image
+                                href="../%E5%9B%BE%E7%89%87/win%E5%AE%89%E8%A3%85/%E5%AE%89%E8%A3%85%E8%B7%AF%E5%BE%84%E4%B8%AD%E7%9A%84%E5%9B%BE%E6%A0%87.jpg"
+                                width="300" id="image_s5g_jk1_mdc"/></info>
+                    </step>
+                    <step>
+                        <cmd>若安装时选择<uicontrol>Custom</uicontrol>，则打开安装时选择的路径。例如，图中自定义安装为"D:\Zotero\"，则打开电脑D盘<uicontrol>Zotero</uicontrol>文件夹，找到Zotero图标，双击即可使用。</cmd>
+                        <info><image
+                                href="../%E5%9B%BE%E7%89%87/win%E5%AE%89%E8%A3%85/ts%20%E6%89%BE%E8%B7%AF%E5%BE%84.jpg"
+                                width="300" id="image_kvp_5k1_mdc"/></info>
+                    </step>
+                    <step>
+                        <cmd>若需将Zotero图标添加至桌面，则选中Zotero图标后按右键，点击<uicontrol>发送到</uicontrol>><uicontrol>桌面快捷方式</uicontrol>，随后便可在桌面直接打开Zotero。</cmd>
+                        <info><image
+                                href="../%E5%9B%BE%E7%89%87/win%E5%AE%89%E8%A3%85/ts%20%E5%8A%A0logo.jpg"
+                                width="300" id="image_w2n_2m1_mdc"/></info>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+        <troubleSolution>
+            <remedy>
+                <title>更多问题请访问</title>
+                <steps-informal id="steps-informal_ld3_sb1_mdc"><xref
+                        href="https://forums.zotero.org/discussions" format="html" scope="external"
+                    /></steps-informal>
+            </remedy>
+        </troubleSolution>
+    </troublebody>
+</troubleshooting>

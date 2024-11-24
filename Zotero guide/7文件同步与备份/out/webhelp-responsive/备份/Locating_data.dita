@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="Locating_data">
+    <title>如何查找Zotero数据在计算机中的存储位置</title>
+    <shortdesc>介绍查找Zotero数据在计算机中的存储位置的方法。</shortdesc>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>打开Zotero客户端，点击页面顶端“编辑”，后点击“编辑”中的“设置”。</cmd>
+                <info><image
+                        href="../images/%E5%A4%87%E4%BB%BD/%E6%9F%A5%E6%89%BE%E4%BD%8D%E7%BD%AE%20%E8%AE%BE%E7%BD%AE.jpg"
+                        width="600" id="image_brh_gld_mdc"/></info>
+            </step>
+            <step>
+                <cmd>点击左侧栏中的“高级”，即可在“数据存储位置”下找到数据所在文件夹的路径。</cmd>
+                <info><image
+                        href="../images/%E5%A4%87%E4%BB%BD/%E9%AB%98%E7%BA%A7%20%E5%AD%98%E5%82%A8%E4%BD%8D%E7%BD%AE.jpg"
+                        width="600" id="image_abb_lld_mdc"/></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

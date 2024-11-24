@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="download">
+    <title>Zotero下载（mac版）</title>
+    <shortdesc>本节介绍如何在mac电脑上下载Zotero安装包。</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>打开任意浏览器，登陆网址<xref href="https://www.zotero.org/download/" format="html"
+                        scope="external"/></cmd>
+            </step>
+            <step>
+                <cmd>点击<uicontrol>Other Versions</uicontrol></cmd>
+                <info><image href="%E7%82%B9%E5%87%BB.jpg" width="300" id="image_sf5_twy_ldc"
+                    /></info>
+            </step>
+            <step>
+                <cmd>点击需要的版本，例如<uicontrol>Zotero 6</uicontrol>下面的<uicontrol>macOS</uicontrol></cmd>
+                <info><image href="%E4%B8%8B%E8%BD%BD.jpg" width="300" id="image_z3t_ywy_ldc"
+                    /></info>
+            </step>
+            <step>
+                <cmd>下载成功后如图所示</cmd>
+                <info><image href="%E4%B8%8B%E8%BD%BD%E6%88%90%E5%8A%9F.jpg" width="400"
+                        id="image_jlb_gxy_ldc"/></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_rqp_y4d_mdc">
+    <title>如何手动备份Zotero数据</title>
+    <shortdesc>介绍手动备份Zotero数据的步骤</shortdesc>
+    <taskbody>
+        <prereq id="prereq_iyj_z4d_mdc">确保已关闭Zotero软件。</prereq>
+        <context/>
+        <steps>
+            <step>
+                <cmd>找到Zotero数据在计算机中的存储位置。</cmd>
+            </step>
+            <step>
+                <cmd>将存储Zotero数据的文件夹（包括zotero.sqlite和storage以及其他子文件夹）复制到用户需要的备份位置。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

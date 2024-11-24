@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="syncing_failure_and_solution_accounts_conflicting">
+    <title>同步过程中出现的多设备同步冲突问题及应对方式</title>
+    <troublebody>
+        <condition>
+            <title>Condition</title>
+            <p>不同设备同时对同一文献进行了修改操作。</p>
+        </condition>
+        <troubleSolution>
+            <cause>
+                <title>Cause</title>
+                <p>不同设备同时对同一文献进行了修改操作。</p>
+            </cause>
+            <remedy>
+                <title>Remedy</title>
+                <steps>
+                    <step>
+                        <cmd>当出现同步冲突提示时，查看Zotero 显示的冲突的文献条目及不同设备的修改差异。</cmd>
+                    </step>
+                    <step>
+                        <cmd> 根据需求决定保留哪个版本的修改。</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+    </troublebody>
+</troubleshooting>

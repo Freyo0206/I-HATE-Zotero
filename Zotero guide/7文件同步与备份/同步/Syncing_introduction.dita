@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_zmy_yh5_ldc">
+    <title>Zotero同步介绍</title>
+    <shortdesc>Zotero默认将所有数据存储在本地计算机。但用户可于登录后利用 Zotero 的同步功能在任何可上网的计算机访问 Zotero 库。Zotero
+        同步分为两类：数据同步（Data Syncing）和文件同步（File Syncing）。</shortdesc>
+</concept>
