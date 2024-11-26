@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>Zotero_ReadnCite</title>
+    <topicref href="read.dita">
+        <topicref href="How_to_read.dita"/>
+        <topicref href="further_with_plugin.dita">
+            <topicref href="trans_use.dita"/>
+            <topicref href="tags_use.dita"/>
+            <topicref href="reference_use.dita"/>
+            <topicref href="plugins_install.dita">
+                <topicref href="add_translationplugin.dita"/>
+                <topicref href="add_tagsplugin.dita"/>
+                <topicref href="add_referenceplug.dita">
+                    <topicref href="toubleshooting_reference.dita"/>
+                </topicref>
+            </topicref>
+        </topicref>
+    </topicref>
+    <topicref href="how%20to%20cite.dita">
+        <topicref href="troubleshooting_cite_0.dita"/>
+    </topicref>
+</map>

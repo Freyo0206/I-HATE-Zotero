@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
+<topic id="plugins_install">
+    <title>阅读相关插件下载与安装</title>
+    <shortdesc>此处为3款常用插件，更多内容可浏览<xref href="https://www.zotero.org/support/plugins" format="html"
+            scope="external"/>自行下载。</shortdesc>
+    <body>
+        <note id="note_wpb_qdw_mdc">(注：安装插件后若无法使用，可尝试重启软件。）</note>
+    </body>
+</topic>

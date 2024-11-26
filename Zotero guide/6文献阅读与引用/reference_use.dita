@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="reference_use">
+    <title>如何使用参考文献提取插件进行阅读</title>
+    <shortdesc>通过参考文献提取插件可提取正在阅读中的文献的参考文献条目，一边进行延伸阅读，有助于提高您的学术研究效率（<xref
+            href="add_referenceplug.dita" format="dita">插件安装</xref>）</shortdesc>
+    <taskbody>
+        <context>
+            <note id="note_ucs_dlw_mdc">确保需要提取的文献所列出的参考文献格式可读（推荐读取从知网等学术网站中直接导入的文献）。</note>
+        </context>
+        <steps>
+            <step>
+                <cmd>点击右侧菜单栏中的<uicontrol>参考文献</uicontrol>选项。</cmd>
+                <info><image href="image/rence.jpg" width="600" id="image_asd_pxz_ldc"/></info>
+            </step>
+            <step>
+                <cmd>点击此按钮进行解析。</cmd>
+                <info><image href="image/jie.jpg" width="600" id="image_tkm_rxz_ldc"/></info>
+            </step>
+            <step>
+                <cmd>如果需要对某篇文献进行引用可将鼠标移动到文献的选项框上，然后点击<uicontrol>Import to
+                        Zotero</uicontrol>，会跳转至目标文献的网页，之后按照<xref href="cover_read.dita" format="dita"
+                        >正常导入程序</xref>进行导入即可。</cmd>
+                <info><image href="image/import.jpg" width="600" id="image_kxd_byz_ldc"/></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

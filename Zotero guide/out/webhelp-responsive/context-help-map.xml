@@ -19,8 +19,6 @@
    <appContext helpID="download_ts_mac_0" path="2下载与安装/dita文件/download_ts_mac.html"/>
    <appContext helpID="mac_install" path="2下载与安装/dita文件/install_mac.html"/>
    <appContext helpID="ts_install_mac" path="2下载与安装/dita文件/install_ts_mac.html"/>
-   <appContext helpID="topic_1_3_other_ver"
-               path="2下载与安装/dita文件/topic_1.3_other_ver.html"/>
    <appContext helpID="download" path="2下载与安装/dita文件/download_other_ver.html"/>
    <appContext helpID="zotero_interface_overview"
                path="3zotero界面概述/zotero_interface_overview.html"/>
@@ -91,7 +89,13 @@
    <appContext helpID="plug_in_is_not_usable"
                path="5文献导入与删除/文献导入与删除-Zotero/3%20浏览器插件安装/plug_in_is_not_usable.html"/>
    <appContext helpID="cover_read" path="6文献阅读与引用/cover_read.html"/>
+   <appContext helpID="topic_crp_2cw_mdc" path="6文献阅读与引用/read.html"/>
    <appContext helpID="task_yzk_gsw_kdc" path="6文献阅读与引用/How_to_read.html"/>
+   <appContext helpID="further_with_plugin" path="6文献阅读与引用/further_with_plugin.html"/>
+   <appContext helpID="trans_use" path="6文献阅读与引用/trans_use.html"/>
+   <appContext helpID="tags_use" path="6文献阅读与引用/tags_use.html"/>
+   <appContext helpID="reference_use" path="6文献阅读与引用/reference_use.html"/>
+   <appContext helpID="plugins_install" path="6文献阅读与引用/plugins_install.html"/>
    <appContext helpID="task_yfp_bqx_kdc" path="6文献阅读与引用/add_translationplugin.html"/>
    <appContext helpID="task_css_fwj_ldc" path="6文献阅读与引用/add_tagsplugin.html"/>
    <appContext helpID="task_b3n_hqz_ldc" path="6文献阅读与引用/add_referenceplug.html"/>

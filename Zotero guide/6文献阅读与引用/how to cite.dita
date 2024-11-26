@@ -5,9 +5,8 @@
     <shortdesc>通过引用功能能够使文献管理软件在阅读和写作过程当中实现很好的交互，以提高文献管理效率。</shortdesc>
     <taskbody>
         <prereq id="prereq_ab3_wbz_ldc">实现自动生成引用条目需要保证在Zotero中的导入文件包含引用所需的相关信息。更多导入相关内容可阅读<xref
-                href="../5%E6%96%87%E7%8C%AE%E5%AF%BC%E5%85%A5%E4%B8%8E%E5%88%A0%E9%99%A4/cover_add.dita"
-                    ><uicontrol>导入</uicontrol></xref>章节的内容。 <image href="image/info.jpg" width="600"
-                id="image_pyx_4cz_ldc"/></prereq>
+                href="cover_read.dita" format="dita">导入</xref>章节的内容。 <image href="image/info.jpg"
+                width="600" id="image_pyx_4cz_ldc"/></prereq>
         <context/>
         <steps>
             <step>

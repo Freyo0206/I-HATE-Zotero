@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="trans_use">
+    <title>如何使用翻译插件进行阅读</title>
+    <shortdesc>通过翻译插件可在Zotero中实现对于可识别文档的快速翻译，极大提高阅读效率（<xref href="add_translationplugin.dita"
+            format="dita">插件安装</xref>）</shortdesc>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>在设置中对需要转换的语言进行设置。</cmd>
+                <info><image href="image/language.jpg" width="600" id="image_vlh_gnz_ldc"/></info>
+            </step>
+            <step>
+                <cmd>在文档中对需要进行翻译的文字进行选中，翻译框会自动弹出。</cmd>
+                <info><image href="image/late.jpg" width="600" id="image_v3b_hnz_ldc"/></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>
