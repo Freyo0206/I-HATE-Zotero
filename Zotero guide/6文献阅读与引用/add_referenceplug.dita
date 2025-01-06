@@ -30,10 +30,10 @@
                         <cmd>选择下载好的<uicontrol>.xpi</uicontrol>文件。</cmd>
                         <info><image href="image/zore.jpg" width="400" id="image_plq_2wz_ldc"
                             /></info>
-                        <stepresult>安装完毕。</stepresult>
                     </substep>
                 </substeps>
             </step>
         </steps>
+        <result id="result_yrr_5hn_xdc">安装完毕</result>
     </taskbody>
 </task>

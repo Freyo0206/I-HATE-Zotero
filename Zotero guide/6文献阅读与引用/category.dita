@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="_0">
+    <title>设置分类</title>
+    <shortdesc>在使用Zotero的过程中，可以通过设置分类对于文库内的文献进行分类管理</shortdesc>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>在<b>我的文库</b>电击鼠标右键，点击<b>新建分类</b></cmd>
+                <info><image href="image/cata.jpg" width="300" id="image_vgv_r5n_xdc"/></info>
+            </step>
+            <step>
+                <cmd>设置名称，点击创建</cmd>
+                <info><image href="image/create.jpg" width="600" id="image_afd_y5n_xdc"/></info>
+            </step>
+            <step>
+                <cmd>可以直接在文库中选择需要移动的文献，点击鼠标右键选择图中的选项（或者直接拖拽文献到分类当中）</cmd>
+                <info><image href="image/fenlei.jpg" width="600" id="image_fgy_dvn_xdc"/></info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

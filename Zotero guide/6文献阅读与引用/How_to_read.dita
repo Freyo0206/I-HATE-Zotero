@@ -21,69 +21,6 @@
                 <cmd>基础功能</cmd>
                 <substeps id="substeps_kns_tzw_kdc">
                     <substep>
-                        <cmd>对文献内容进行高亮/下划线显示</cmd>
-                        <info>1. <b>高亮显示</b>：用鼠标左键选中目标文字，通过弹出的提示框选择高亮颜色。</info>
-                        <info><image href="image/select.jpg" width="600" id="image_jrl_nmz_ldc"
-                            /></info>
-                        <info>2. <b>下划线显示</b>：在同一提示框中选择左侧按钮，之后对下划线的颜色进行选择。</info>
-                        <info><image href="image/underline.jpg" width="600" id="image_ggl_4mz_ldc"
-                            /></info>
-                    </substep>
-                    <substep>
-                        <cmd>添加笔记</cmd>
-                        <info>Step 1-点击添加笔记按钮（右侧颜色框可对笔记便条的颜色进行选取）。</info>
-                        <info><image href="image/note.jpg" width="600" id="image_c5f_pmz_ldc"
-                            /></info>
-                        <info>Step 2-点击阅读器文档内任意位置以创建新的便签，并键入笔记（完成后点击页面任意位置可隐藏笔记）。</info>
-                        <info><image href="image/comment.jpg" width="600" id="image_dfz_pmz_ldc"
-                            /></info>
-                    </substep>
-                    <substep>
-                        <cmd>新增文字</cmd>
-                        <info>Step 1-点击左侧按钮（右侧颜色框可对颜色进行选择）。</info>
-                        <info><image href="image/type.jpg" width="600" id="image_ayw_qmz_ldc"
-                            /></info>
-                        <info>Step 2-点击阅读器任意位置以键入文字。</info>
-                        <info><image href="image/typing.jpg" width="600" id="image_ebv_rmz_ldc"
-                            /></info>
-                    </substep>
-                    <substep>
-                        <cmd>区域选中</cmd>
-                        <info>Step 1-点击左侧按钮（右侧颜色框可对颜色进行选择）。</info>
-                        <info><image href="image/kuang.jpg" width="600" id="image_c54_smz_ldc"
-                            /></info>
-                        <info>Step 2-按住鼠标左键选中目标区域。</info>
-                        <info><image href="image/zone.jpg" width="600" id="image_yzk_tmz_ldc"
-                            /></info>
-                    </substep>
-                    <substep>
-                        <cmd>在文档内绘制图形或笔迹</cmd>
-                        <info>点击左侧按钮（右侧颜色框可对颜色进行选择），之后可在阅读框范围内添加笔迹。</info>
-                        <info><image href="image/draw.jpg" width="600" id="image_wvc_5mz_ldc"
-                            /></info>
-                    </substep>
-                    <substep>
-                        <cmd>放大、缩放与重置</cmd>
-                        <info>标注中的三个按钮分别为缩小、放大、恢复默认（用户也可通过触控板进行操作）。</info>
-                        <info><image href="image/size.jpg" width="600" id="image_eq5_xmz_ldc"
-                            /></info>
-                    </substep>
-                    <substep>
-                        <cmd>同个文档进行对比阅读时，可对页面进行切分</cmd>
-                        <info>在页面内点击鼠标右键，根据需求进行选取。</info>
-                        <info><image href="image/cut.jpg" width="600" id="image_zpk_ymz_ldc"
-                            /></info>
-                    </substep>
-                    <substep>
-                        <cmd>添加标签以对文献进行分类</cmd>
-                        <info>Step 1-点击方框中的按钮。</info>
-                        <info><image href="image/window.jpg" width="600" id="image_aqd_zmz_ldc"
-                            /></info>
-                        <info>Step 2-点击方框中按钮以添加标签。</info>
-                        <info><image href="image/tip.jpg" width="600" id="image_zdv_1nz_ldc"
-                            /></info>
-                    </substep>
-                    <substep>
                         <cmd>关联相关文档</cmd>
                         <info>Step 1-点击方框中的按钮。</info>
                         <info><image href="image/window.jpg" width="600" id="image_xhv_dnz_ldc"
@@ -99,9 +36,4 @@
             </step>
         </steps>
     </taskbody>
-    <related-links>
-        <link href="add_translationplugin.dita" format="dita"/>
-        <link href="add_tagsplugin.dita" format="dita"/>
-        <link href="add_referenceplug.dita" format="dita"/>
-    </related-links>
 </task>

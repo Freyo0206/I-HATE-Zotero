@@ -90,17 +90,31 @@
                path="5文献导入与删除/文献导入与删除-Zotero/3%20浏览器插件安装/plug_in_is_not_usable.html"/>
    <appContext helpID="cover_read" path="6文献阅读与引用/cover_read.html"/>
    <appContext helpID="topic_crp_2cw_mdc" path="6文献阅读与引用/read.html"/>
-   <appContext helpID="task_yzk_gsw_kdc" path="6文献阅读与引用/How_to_read.html"/>
+   <appContext helpID="zotero" path="6文献阅读与引用/zotero.html"/>
+   <appContext helpID="task_b1l_ltn_xdc" path="6文献阅读与引用/basi.html"/>
+   <appContext helpID="_0" path="6文献阅读与引用/category.html"/>
+   <appContext helpID="note" path="6文献阅读与引用/note.html"/>
+   <appContext helpID="addwords" path="6文献阅读与引用/addwords.html"/>
+   <appContext helpID="selectzone" path="6文献阅读与引用/selectzone.html"/>
+   <appContext helpID="draw" path="6文献阅读与引用/draw.html"/>
+   <appContext helpID="bigsmall" path="6文献阅读与引用/bigsmall.html"/>
+   <appContext helpID="cut" path="6文献阅读与引用/cut.html"/>
+   <appContext helpID="tagad" path="6文献阅读与引用/tagad.html"/>
+   <appContext helpID="connect" path="6文献阅读与引用/connect.html"/>
    <appContext helpID="further_with_plugin" path="6文献阅读与引用/further_with_plugin.html"/>
    <appContext helpID="trans_use" path="6文献阅读与引用/trans_use.html"/>
    <appContext helpID="tags_use" path="6文献阅读与引用/tags_use.html"/>
    <appContext helpID="reference_use" path="6文献阅读与引用/reference_use.html"/>
+   <appContext helpID="plugin_style" path="6文献阅读与引用/plugin_style.html"/>
+   <appContext helpID="keysnatch" path="6文献阅读与引用/keysnatch.html"/>
+   <appContext helpID="notag" path="6文献阅读与引用/notag.html"/>
    <appContext helpID="plugins_install" path="6文献阅读与引用/plugins_install.html"/>
    <appContext helpID="task_yfp_bqx_kdc" path="6文献阅读与引用/add_translationplugin.html"/>
    <appContext helpID="task_css_fwj_ldc" path="6文献阅读与引用/add_tagsplugin.html"/>
    <appContext helpID="task_b3n_hqz_ldc" path="6文献阅读与引用/add_referenceplug.html"/>
    <appContext helpID="toubleshooting_reference"
                path="6文献阅读与引用/toubleshooting_reference.html"/>
+   <appContext helpID="add_ethereal" path="6文献阅读与引用/add_ethereal.html"/>
    <appContext helpID="task_py4_rt5_ldc" path="6文献阅读与引用/how%20to%20cite.html"/>
    <appContext helpID="troubleshooting_cite_0"
                path="6文献阅读与引用/troubleshooting_cite_0.html"/>

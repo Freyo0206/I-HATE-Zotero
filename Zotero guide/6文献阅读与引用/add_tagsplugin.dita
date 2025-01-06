@@ -31,10 +31,10 @@
                         <cmd>打开已经下载好的<uicontrol>.xpi文件</uicontrol>。</cmd>
                         <info><image href="image/tagxpi.jpg" width="400" id="image_qkk_rnz_ldc"
                             /></info>
-                        <stepresult>安装完毕。</stepresult>
                     </substep>
                 </substeps>
             </step>
         </steps>
+        <result id="result_v5b_xhn_xdc">安装完毕</result>
     </taskbody>
 </task>

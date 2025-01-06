@@ -52,8 +52,8 @@
             <step>
                 <cmd>选择其中一个引擎并配置API密钥，并在输入框中输入。</cmd>
                 <info><image href="image/key.jpg" width="600" id="image_k5t_k4z_ldc"/></info>
-                <stepresult>安装完毕。</stepresult>
             </step>
         </steps>
+        <result id="result_bl4_yhn_xdc">安装完毕</result>
     </taskbody>
 </task>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="notag">
+    <title>未出现相应期刊标签（或其他所需信息）</title>
+    <troublebody>
+        <condition>
+            <title>Condition</title>
+            <p>按照引导完成操作后仍未出现所需信息</p>
+        </condition>
+        <troubleSolution>
+            <cause>
+                <title>Cause 1</title>
+                <p>1、插件未配置完成</p>
+                <p>2、数据未更新</p>
+            </cause>
+            <remedy>
+                <title>Remedy</title>
+                <responsibleParty>Zotero</responsibleParty>
+                <steps>
+                    <step>
+                        <cmd>重启Zotero</cmd>
+                    </step>
+                    <step>
+                        <cmd>在标题栏点击鼠标右键，后点击图上选项</cmd>
+                        <info><image href="image/journal.jpg" width="200" id="image_ibt_psn_xdc"
+                            /></info>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+    </troublebody>
+</troubleshooting>

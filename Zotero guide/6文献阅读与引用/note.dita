@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="note">
+    <title>添加笔记</title>
+    <shortdesc>通过Zotero的阅读器可以对所读文献添加相关笔记</shortdesc>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>在文档内增加笔记</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>点击添加笔记按钮（右侧颜色框可对笔记便条的颜色进行选取）。</cmd>
+                        <info><image href="image/note.jpg" width="600" id="image_dgl_rvn_xdc"
+                            /></info>
+                    </substep>
+                    <substep>
+                        <cmd>点击阅读器文档内任意位置以创建新的便签，并键入笔记（完成后点击页面任意位置可隐藏笔记）。</cmd>
+                        <info><image href="image/comment.jpg" width="600" id="image_zrv_n5g_ydc"
+                            /></info>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>设立平行于不同文献的笔记</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>在阅读器模式下，在侧栏中选择笔记功能</cmd>
+                        <info><image href="image/notes.jpg" width="600" id="image_fgx_y5g_ydc"
+                            /></info>
+                    </substep>
+                    <substep>
+                        <cmd>点击加号新建条目笔记（独立笔记同理）</cmd>
+                        <info><image href="image/newnote.jpg" width="600" id="image_mwf_mvg_ydc"
+                            /></info>
+                        <stepresult>如图所有条目笔记在阅读任一文献时均可全部显示（且产生笔记的文件名称也可以看到）；独立笔记则是独立于所有文献，也在阅读任一文献时可显示<image
+                                href="image/allnotes.jpg" width="600" id="image_pyj_gwg_ydc"
+                            /></stepresult>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="plugin_style">
+    <title>如何使用风格插件提高阅读效率</title>
+    <shortdesc>Zotero中对于已经导入的文件只能提供文件名等基础信息，对于作者、年份、文献所属期刊等级、影响因子等则无法提供；通过Ethereal
+            Style插件则可以实现上述功能，提高文献管理和阅读效率（<xref href="add_ethereal.dita" format="dita"
+        >插件安装跳转</xref>）。</shortdesc>
+    <taskbody>
+        <context>
+            <note id="note_ckw_bfn_xdc">在使用该插件的功能之前，请您先匹配<b><xref href="keysnatch.dita" format="dita"
+                        >文献密钥匹配</xref></b></note>
+        </context>
+        <steps>
+            <step>
+                <cmd>在标题栏点击鼠标右键，勾选需要显示的信息（如途中的期刊标签和创建者）</cmd>
+                <info><image href="image/yinzi.jpg" width="200" id="image_nwf_krn_xdc"/></info>
+            </step>
+            <step>
+                <cmd>可以通过<b>简记</b>功能简要记录文献关键信息</cmd>
+                <substeps>
+                    <substep>
+                        <cmd>在简记栏中根据需求进行标注</cmd>
+                        <info><image href="image/mark.jpg" width="300" id="image_msd_ktg_ydc"
+                            /></info>
+                    </substep>
+                    <substep>
+                        <cmd>在标题栏中打开<b>简记</b>选项</cmd>
+                        <info><image href="image/jianji.jpg" width="400" id="image_vrc_qtg_ydc"
+                            /></info>
+                        <stepresult>如图即设置完毕<image href="image/jianjiset.jpg" width="600"
+                                id="image_evr_xtg_ydc"/></stepresult>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>
