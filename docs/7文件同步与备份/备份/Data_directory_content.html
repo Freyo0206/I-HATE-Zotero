@@ -1,0 +1,162 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="zh-cn" lang="zh-cn" data-whc_version="25.0">
+    <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1.0"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><meta name="DC.rights.owner" content="(C) 版权 2025"/><meta name="copyright" content="(C) 版权 2025"/><meta name="generator" content="DITA-OT"/><meta name="DC.type" content="concept"/><meta name="description" content="数据目录中，zotero.sqlite为最重要的文件，其中包含注释、标签等数据。Zotero 启动时会自动读取储存在活动数据目录中的zotero.sqlite文件。 数据目录还包含一个storage文件夹，其中包含 8 个字符的子文件夹（例如“N7SMB24A”），其中包含用户的所有文件附件，例如 PDF、网页截图、音频文件或用户导入的任何其他文件（链接的文件不会复制到此子文件夹中）。 ..."/><meta name="DC.relation" content="../../7文件同步与备份/备份/cover_backup.html"/><meta name="DC.format" content="HTML5"/><meta name="DC.identifier" content="Data_directory_content_0"/>        
+      <title>数据目录内容介绍</title><!--  Generated with Oxygen version 25.0, build number 2022100714.  --><meta name="wh-path2root" content="../../"/><meta name="wh-toc-id" content="Data_directory_content_0-d895e1030"/><meta name="wh-source-relpath" content="../../../../mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/7文件同步与备份/备份/Data_directory_content.dita"/><meta name="wh-out-relpath" content="7文件同步与备份/备份/Data_directory_content.html"/>
+
+    <link rel="stylesheet" type="text/css" href="../../oxygen-webhelp/app/commons.css?buildId=2022100714"/>
+    <link rel="stylesheet" type="text/css" href="../../oxygen-webhelp/app/topic.css?buildId=2022100714"/>
+
+    <script>
+        var oxy_webhelp_navlinks = {};
+    </script>
+    <script src="../../oxygen-webhelp/app/options/properties.js?buildId=20250109154326"></script>
+    <script src="../../oxygen-webhelp/app/localization/strings.js?buildId=2022100714"></script>
+    <script src="../../oxygen-webhelp/app/search/index/keywords.js?buildId=20250109154326"></script>
+    <script defer="defer" src="../../oxygen-webhelp/app/commons.js?buildId=2022100714"></script>
+    <script defer="defer" src="../../oxygen-webhelp/app/topic.js?buildId=2022100714"></script>
+<link rel="stylesheet" type="text/css" href="../../oxygen-webhelp/template/blue.css?buildId=2022100714"/><link rel="stylesheet" type="text/css" href="../../oxygen-webhelp/template/notes.css?buildId=2022100714"/></head>
+
+    <body id="Data_directory_content_0" class="wh_topic_page frmBody">
+        <a href="#wh_topic_body" class="sr-only sr-only-focusable">
+            跳转到主要内容
+        </a>
+        
+        
+        
+        
+        <header class="navbar navbar-default wh_header">
+    <div class="container-fluid">
+        <div class="wh_header_flex_container navbar-nav navbar-expand-md navbar-dark">
+            <div class="wh_logo_and_publication_title_container">
+                <div class="wh_logo_and_publication_title">
+                    
+                    
+                    <div class=" wh_publication_title "><a href="../../index.html"><span class="title">史上最好用的Zotero手册</span></a></div>
+                    
+                </div>
+                
+                <button type="button" data-target="#wh_top_menu_and_indexterms_link" id="wh_menu_mobile_button" data-toggle="collapse" class="navbar-toggler collapsed wh_toggle_button" aria-expanded="false" aria-label="切换菜单" aria-controls="wh_top_menu_and_indexterms_link">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            </div>
+
+            <div class="wh_top_menu_and_indexterms_link collapse navbar-collapse" id="wh_top_menu_and_indexterms_link">
+                
+                <nav class=" wh_top_menu " aria-label="Menu Container"><ul role="menubar" aria-label="Menu"><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="cover_intro-d895e11-mi" data-tocid="cover_intro-d895e11" data-state="not-ready" class=" topicref " data-id="cover_intro"><span class="title"><a href="../../1%20Zotero%E7%AE%80%E4%BB%8B/cover_intro.html">Zotero简介</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="topic_1_dnld_istll-d895e49-mi" data-tocid="topic_1_dnld_istll-d895e49" data-state="not-ready" class=" topicref " data-id="topic_1_dnld_istll"><span class="title"><a href="../../2%E4%B8%8B%E8%BD%BD%E4%B8%8E%E5%AE%89%E8%A3%85/dita%E6%96%87%E4%BB%B6/topic_1_dnld_istll.html">下载与安装</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="zotero_interface_overview-d895e178-mi" data-tocid="zotero_interface_overview-d895e178" data-state="not-ready" class=" topicref " data-id="zotero_interface_overview"><span class="title"><a href="../../3zotero%E7%95%8C%E9%9D%A2%E6%A6%82%E8%BF%B0/zotero_interface_overview.html">Zotero界面概述</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="building_your_personal_liabrary-d895e245-mi" data-tocid="building_your_personal_liabrary-d895e245" data-state="not-ready" class=" topicref " data-id="building_your_personal_liabrary"><span class="title"><a href="../../4%E5%BB%BA%E7%AB%8B%E4%B8%AA%E4%BA%BA%E6%96%87%E7%8C%AE%E5%BA%93/building_your_personal_liabrary.html">建立个人文献库</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="cover_add-d895e367-mi" data-tocid="cover_add-d895e367" data-state="not-ready" class=" topicref " data-id="cover_add"><span class="title"><a href="../../5%E6%96%87%E7%8C%AE%E5%AF%BC%E5%85%A5%E4%B8%8E%E5%88%A0%E9%99%A4/cover_add.html">文献导入与删除</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="cover_read-d895e555-mi" data-tocid="cover_read-d895e555" data-state="not-ready" class=" topicref " data-id="cover_read"><span class="title"><a href="../../6%E6%96%87%E7%8C%AE%E9%98%85%E8%AF%BB%E4%B8%8E%E5%BC%95%E7%94%A8/cover_read.html">文献阅读与引用</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="sync_cover-d895e869-mi" data-tocid="sync_cover-d895e869" data-state="not-ready" class=" topicref " data-id="sync_cover"><span class="title"><a href="../../7%E6%96%87%E4%BB%B6%E5%90%8C%E6%AD%A5%E4%B8%8E%E5%A4%87%E4%BB%BD/sync_cover.html">文献同步与备份</a></span></span></li><li role="menuitem" aria-haspopup="true" aria-expanded="false" class="has-children"><span id="unload-d895e1063-mi" data-tocid="unload-d895e1063" data-state="not-ready" class=" topicref " data-id="unload"><span class="title"><a href="../../8%E5%8D%B8%E8%BD%BD/cover_unload.html">卸载</a></span></span></li></ul></nav>
+                
+                
+            </div>
+        </div>
+    </div>
+</header>
+        
+        
+         
+        
+        <div class=" wh_search_input navbar-form wh_topic_page_search search " role="form">
+            
+            
+            
+            <form id="searchForm" method="get" role="search" action="../../search.html"><div><input type="search" placeholder="搜索 " class="wh_search_textfield" id="textToSearch" name="searchQuery" aria-label="搜索查询" required="required"/><button type="submit" class="wh_search_button" aria-label="搜索"><span class="search_input_text">搜索</span></button></div></form>
+            
+            
+            
+        </div>
+        
+        <div class="container-fluid" id="wh_topic_container">
+            <div class="row">
+
+                <nav class="wh_tools d-print-none navbar-expand-md" aria-label="Tools">
+                    
+                    <div data-tooltip-position="bottom" class=" wh_breadcrumb "><ol class="d-print-none"><li><span class="home"><a href="../../index.html"><span>主页</span></a></span></li><li><div class="topicref" data-id="sync_cover"><div class="title"><a href="../../7%E6%96%87%E4%BB%B6%E5%90%8C%E6%AD%A5%E4%B8%8E%E5%A4%87%E4%BB%BD/sync_cover.html">文献同步与备份</a><div class="wh-tooltip"><p class="shortdesc">本章节深入讲解Zotero的同步机制，包括如何注册并登录账户、如何同步数据与文件，还介绍了如何备份以保持跨设备的数据一致性，维护文献资料的完整性和可用性。</p></div></div></div></li><li><div class="topicref" data-id="cover_backup"><div class="title"><a href="../../7%E6%96%87%E4%BB%B6%E5%90%8C%E6%AD%A5%E4%B8%8E%E5%A4%87%E4%BB%BD/%E5%A4%87%E4%BB%BD/cover_backup.html">7.3 备份</a></div></div></li><li class="active"><div class="topicref" data-id="Data_directory_content_0"><div class="title"><a href="../../7%E6%96%87%E4%BB%B6%E5%90%8C%E6%AD%A5%E4%B8%8E%E5%A4%87%E4%BB%BD/%E5%A4%87%E4%BB%BD/Data_directory_content.html">数据目录内容介绍</a><div class="wh-tooltip"><p class="shortdesc"></p></div></div></div></li></ol></div>
+                    
+                    
+                    
+                    <div class="wh_right_tools">
+                        <button class="wh_hide_highlight" aria-label="切换搜索突出显示" title="切换搜索突出显示"></button>
+                        <button class="webhelp_expand_collapse_sections" data-next-state="collapsed" aria-label="折叠截面" title="折叠截面"></button>
+                        
+                        
+                        
+                        
+                        <div class=" wh_print_link print d-none d-md-inline-block "><button onClick="window.print()" title="打印此页" aria-label="打印此页"></button></div>
+                        
+                        <button type="button" id="wh_toc_button" class="custom-toggler navbar-toggler collapsed wh_toggle_button navbar-light" aria-expanded="false" aria-label="Toggle publishing table of content" aria-controls="wh_publication_toc">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                    </div>
+                    
+                </nav>
+            </div>
+            
+            
+            
+            
+            <div class="wh_content_area">
+                <div class="row">
+                    
+                        <nav id="wh_publication_toc" class="col-lg-3 col-md-3 col-sm-12 d-md-block d-none d-print-none" aria-label="Table of Contents Container">
+                            <div id="wh_publication_toc_content">
+		                        
+                            	<div class=" wh_publication_toc " data-tooltip-position="right"><span class="expand-button-action-labels"><span id="button-expand-action" role="button" aria-label="Expand"></span><span id="button-collapse-action" role="button" aria-label="Collapse"></span><span id="button-pending-action" role="button" aria-label="Pending"></span></span><ul role="tree" aria-label="Table of Contents"><li role="treeitem" aria-expanded="true"><div data-tocid="sync_cover-d895e869" class="topicref" data-id="sync_cover" data-state="expanded"><span role="button" tabindex="0" aria-labelledby="button-collapse-action sync_cover-d895e869-link" class="wh-expand-btn"></span><div class="title"><a href="../../7%E6%96%87%E4%BB%B6%E5%90%8C%E6%AD%A5%E4%B8%8E%E5%A4%87%E4%BB%BD/sync_cover.html" id="sync_cover-d895e869-link">文献同步与备份</a><div class="wh-tooltip"><p class="shortdesc">本章节深入讲解Zotero的同步机制，包括如何注册并登录账户、如何同步数据与文件，还介绍了如何备份以保持跨设备的数据一致性，维护文献资料的完整性和可用性。</p></div></div></div><ul role="group" class="navbar-nav nav-list"><li role="treeitem" aria-expanded="false"><div data-tocid="cover_regis-d895e880" class="topicref" data-id="cover_regis" data-state="not-ready"><span role="button" tabindex="0" aria-labelledby="button-expand-action cover_regis-d895e880-link" class="wh-expand-btn"></span><div class="title"><a href="../../7%E6%96%87%E4%BB%B6%E5%90%8C%E6%AD%A5%E4%B8%8E%E5%A4%87%E4%BB%BD/%E6%B3%A8%E5%86%8C%E4%B8%8E%E7%99%BB%E5%BD%95/cover_regis.html" id="cover_regis-d895e880-link">7.1 注册与登录</a><div class="wh-tooltip"><p class="shortdesc">注册并登录Zotero帐号后，用户可通过Zotero同步和备份文献管理数据，Zotero便捷的云存储和协作功能能够帮助用户更高效地进行文献阅读和写作。</p></div></div></div></li><li role="treeitem" aria-expanded="false"><div data-tocid="cover_sync-d895e932" class="topicref" data-id="cover_sync" data-state="not-ready"><span role="button" tabindex="0" aria-labelledby="button-expand-action cover_sync-d895e932-link" class="wh-expand-btn"></span><div class="title"><a href="../../7%E6%96%87%E4%BB%B6%E5%90%8C%E6%AD%A5%E4%B8%8E%E5%A4%87%E4%BB%BD/%E5%90%8C%E6%AD%A5/cover_sync.html" id="cover_sync-d895e932-link">7.2 同步</a></div></div></li><li role="treeitem" aria-expanded="true"><div data-tocid="cover_backup-d895e1022" class="topicref" data-id="cover_backup" data-state="expanded"><span role="button" tabindex="0" aria-labelledby="button-collapse-action cover_backup-d895e1022-link" class="wh-expand-btn"></span><div class="title"><a href="../../7%E6%96%87%E4%BB%B6%E5%90%8C%E6%AD%A5%E4%B8%8E%E5%A4%87%E4%BB%BD/%E5%A4%87%E4%BB%BD/cover_backup.html" id="cover_backup-d895e1022-link">7.3 备份</a></div></div><ul role="group" class="navbar-nav nav-list"><li role="treeitem" class="active"><div data-tocid="Data_directory_content_0-d895e1030" class="topicref" data-id="Data_directory_content_0" data-state="leaf"><span role="button" class="wh-expand-btn"></span><div class="title"><a href="../../7%E6%96%87%E4%BB%B6%E5%90%8C%E6%AD%A5%E4%B8%8E%E5%A4%87%E4%BB%BD/%E5%A4%87%E4%BB%BD/Data_directory_content.html" id="Data_directory_content_0-d895e1030-link">数据目录内容介绍</a><div class="wh-tooltip"><p class="shortdesc"></p></div></div></div></li><li role="treeitem"><div data-tocid="Locating_data-d895e1040" class="topicref" data-id="Locating_data" data-state="leaf"><span role="button" class="wh-expand-btn"></span><div class="title"><a href="../../7%E6%96%87%E4%BB%B6%E5%90%8C%E6%AD%A5%E4%B8%8E%E5%A4%87%E4%BB%BD/%E5%A4%87%E4%BB%BD/Locating_data.html" id="Locating_data-d895e1040-link">7.3.1 查找Zotero数据在计算机中的存储位置</a><div class="wh-tooltip"><p class="shortdesc">本节介绍查找Zotero数据在计算机中的存储位置的方法。</p></div></div></div></li><li role="treeitem"><div data-tocid="task_rqp_y4d_mdc-d895e1051" class="topicref" data-id="task_rqp_y4d_mdc" data-state="leaf"><span role="button" class="wh-expand-btn"></span><div class="title"><a href="../../7%E6%96%87%E4%BB%B6%E5%90%8C%E6%AD%A5%E4%B8%8E%E5%A4%87%E4%BB%BD/%E5%A4%87%E4%BB%BD/Backup_data.html" id="task_rqp_y4d_mdc-d895e1051-link">7.3.2 手动备份Zotero数据</a><div class="wh-tooltip"><p class="shortdesc">本节介绍手动备份Zotero数据的步骤。</p></div></div></div></li></ul></li></ul></li></ul></div>
+		                        
+                            </div>
+                        </nav>
+                    
+                    
+                    <div class="col-lg-9 col-md-9 col-sm-12" id="wh_topic_body">
+                        <button id="wh_close_publication_toc_button" class="close-toc-button d-none" aria-label="Toggle publishing table of content" aria-controls="wh_publication_toc" aria-expanded="true">
+                            <span class="close-toc-icon-container">
+                                <span class="close-toc-icon"></span>     
+                            </span>
+                        </button>
+                        
+                        
+                        <div class=" wh_topic_content body "><main role="main"><article class="- topic/topic concept/concept topic concept" role="article" aria-labelledby="ariaid-title1">
+    <h1 class="- topic/title title topictitle1" id="ariaid-title1">数据目录内容介绍</h1>
+    
+    <div class="- topic/body concept/conbody body conbody"><p class="- topic/shortdesc shortdesc"></p>
+        <p class="- topic/p p">数据目录中，zotero.sqlite为最重要的文件，其中包含注释、标签等数据。Zotero 启动时会自动读取储存在活动数据目录中的zotero.sqlite文件。</p>
+        <p class="- topic/p p">数据目录还包含一个storage文件夹，其中包含 8 个字符的子文件夹（例如“N7SMB24A”），其中包含用户的所有文件附件，例如
+            PDF、网页截图、音频文件或用户导入的任何其他文件（链接的文件不会复制到此子文件夹中）。</p>
+        <p class="- topic/p p">数据目录可能包含另外的文件及文件夹。其中可能包括 zotero.sqlite.bak（即zotero.sqlite 的自动备份，若现有的 zotero.sqlite.bak
+            文件在过去 12 小时内未更新，则会定期更新）和 zotero.sqlite.[number].bak 文件（在 Zotero 更新过程中可能会创建的
+            zotero.sqlite 自动备份），以及日志、样式和翻译器等文件夹，这些文件夹会在 Zotero 启动时自动创建。 </p>
+        <p class="- topic/p p">在复制、删除或移动这些文件之前，请确保 Zotero 已关闭，否则可能损坏用户数据。</p>
+    </div>
+</article></main></div>
+                        
+                        
+                        
+                        
+                        
+                        
+                    </div>
+                    
+                </div>
+            </div>
+            
+            
+            
+        </div> 
+        <footer class="navbar navbar-default wh_footer">
+  <div class=" footer-container mx-auto ">
+    <div>Generated by <a class="oxyFooter" href="http://www.oxygenxml.com/xml_webhelp.html" target="_blank">
+ &lt;oXygen/&gt; XML WebHelp
+ </a></div>
+  </div>
+</footer>
+        
+        <div id="go2top" class="d-print-none">
+            <span class="oxy-icon oxy-icon-up"></span>
+        </div>
+        
+        <div id="modal_img_large" class="modal">
+            <span class="close oxy-icon oxy-icon-remove"></span>
+            <div id="modal_img_container"></div>
+            <div id="caption"></div>
+        </div>
+        
+        
+        
+    </body>
+</html>
