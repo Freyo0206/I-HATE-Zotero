@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="File_syncing_webdav">
-    <title>如何使用WebDAV进行文件同步</title>
+    <title>7.2.2.2 使用WebDAV进行文件同步</title>
     <shortdesc>WebDAV 是通过网络传输文件的标准协议，可用于同步个人图书馆中的文件（群组图书馆不能使用 WebDAV）。(你的雇主或研究机构可能会提供 WebDAV
         存储空间。</shortdesc>
     <taskbody>
@@ -9,22 +9,24 @@
         <steps>
             <step>
                 <cmd>在文件同步下，选择“‘我的文库’附件同步方式”为“WebDAV”。</cmd>
-                <info><image href="../images/%E5%90%8C%E6%AD%A5/%E5%8B%BE%E9%80%89W.jpg" width="600"
-                        id="image_kdq_4sc_mdc"/></info>
+                <info><image href="../images/%E5%90%8C%E6%AD%A5/%E5%8B%BE%E9%80%89W.jpg" width="450"
+                        id="image_kdq_4sc_mdc" align="center"/></info>
             </step>
             <step>
                 <cmd>输入 WebDAV 服务器的 URL（注意 URL 末尾会自动添加 /zotero/）、用户名和密码。</cmd>
-                <info>注意：目前，有Box、Dropbox、teracloud、yandex、TransIP等国外网盘及<xref
-                        href="File_syncing_webdav_jianguoyun.dita">坚果云</xref>这一国内网盘支持WebDAV。</info>
+                <info>
+                    <note id="note_vnh_cct_ydc" type="note"
+                        >目前，有Box、Dropbox、teracloud、yandex、TransIP等国外网盘及坚果云这一国内网盘支持WebDAV。</note>
+                </info>
             </step>
             <step>
                 <cmd>点击“验证服务器 ”，检查 Zotero 是否能够连接服务器，开始使用WebDAV进行文件同步。</cmd>
                 <info><image
                         href="../images/%E5%90%8C%E6%AD%A5/%E9%AA%8C%E8%AF%81%E6%9C%8D%E5%8A%A1%E5%99%A8.jpg"
-                        width="600" id="image_ols_4tc_mdc"/></info>
+                        width="500" id="image_ols_4tc_mdc" align="center"/></info>
                 <stepresult>弹出如下窗口，即完成文件同步设定：<image
-                        href="../images/%E5%90%8C%E6%AD%A5/%E5%AE%8C%E6%88%90W.jpg" width="600"
-                        id="image_e35_jvc_mdc"/></stepresult>
+                        href="../images/%E5%90%8C%E6%AD%A5/%E5%AE%8C%E6%88%90W.jpg" width="400"
+                        id="image_e35_jvc_mdc" align="center"/></stepresult>
             </step>
         </steps>
     </taskbody>

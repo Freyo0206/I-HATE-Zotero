@@ -3,6 +3,7 @@
 <map xml:lang="zh-CN">
     <title>同步与备份</title>
     <topicref href="%E6%B3%A8%E5%86%8C%E4%B8%8E%E7%99%BB%E5%BD%95/cover_regis.dita">
+        <topicref href="%E6%B3%A8%E5%86%8C%E4%B8%8E%E7%99%BB%E5%BD%95/Introduction.dita"/>
         <topicref href="%E6%B3%A8%E5%86%8C%E4%B8%8E%E7%99%BB%E5%BD%95/Register.dita"/>
         <topicref href="%E6%B3%A8%E5%86%8C%E4%B8%8E%E7%99%BB%E5%BD%95/Log_in.dita">
             <topicref href="%E6%B3%A8%E5%86%8C%E4%B8%8E%E7%99%BB%E5%BD%95/Forget_password.dita"/>

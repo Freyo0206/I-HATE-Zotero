@@ -23,14 +23,14 @@
                 <topicref href="keysnatch.dita"/>
                 <topicref href="notag.dita"/>
             </topicref>
-            <topicref href="plugins_install.dita">
-                <topicref href="add_translationplugin.dita"/>
-                <topicref href="add_tagsplugin.dita"/>
-                <topicref href="add_referenceplug.dita">
-                    <topicref href="toubleshooting_reference.dita"/>
-                </topicref>
-                <topicref href="add_ethereal.dita"/>
+        </topicref>
+        <topicref href="plugins_install.dita">
+            <topicref href="add_translationplugin.dita"/>
+            <topicref href="add_tagsplugin.dita"/>
+            <topicref href="add_referenceplug.dita">
+                <topicref href="toubleshooting_reference.dita"/>
             </topicref>
+            <topicref href="add_ethereal.dita"/>
         </topicref>
     </topicref>
     <topicref href="how%20to%20cite.dita">

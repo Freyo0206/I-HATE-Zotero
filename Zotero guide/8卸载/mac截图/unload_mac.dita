@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="unload_mac">
+    <title>8.2 Zotero卸载（mac版）</title>
+    <shortdesc>本节介绍如何在mac电脑上卸载Zotero。</shortdesc>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>打开Zotero界面，点击左上角<uicontrol>Zotero</uicontrol> >
+                    <uicontrol>设置</uicontrol>。</cmd>
+                <info><image href="../mac%E6%88%AA%E5%9B%BE/%E8%AE%BE%E7%BD%AE.jpg" width="500"
+                        id="image_cyt_cpp_mdc" align="center"/></info>
+            </step>
+            <step>
+                <cmd>在设置界面选择<uicontrol>高级</uicontrol>。</cmd>
+                <info><image href="../mac%E6%88%AA%E5%9B%BE/%E9%AB%98%E7%BA%A7.jpg" width="400"
+                        id="image_k4y_dpp_mdc" align="center"/></info>
+            </step>
+            <step>
+                <cmd>向下滑动，找到<uicontrol>数据储存位置</uicontrol>，点击<uicontrol>打开数据文件夹</uicontrol>。</cmd>
+                <info><image
+                        href="../mac%E6%88%AA%E5%9B%BE/%E6%89%93%E5%BC%80%E6%95%B0%E6%8D%AE%E6%96%87%E4%BB%B6%E5%A4%B9.jpg"
+                        width="400" id="image_onx_2pp_mdc" align="center"/></info>
+            </step>
+            <step>
+                <cmd>找到Zotero储存数据的文件夹。此界面请勿关闭，如需关闭，请记录好数据文件夹路径。</cmd>
+                <info><image href="../mac%E6%88%AA%E5%9B%BE/%E6%96%87%E4%BB%B6%E5%A4%B9.jpg"
+                        width="400" id="image_ftc_zpp_mdc" align="center"/></info>
+            </step>
+            <step>
+                <cmd>打开<uicontrol>访达</uicontrol>，点击<uicontrol>应用程序</uicontrol>文件夹。</cmd>
+                <info><image
+                        href="../mac%E6%88%AA%E5%9B%BE/%E6%89%BE%E5%88%B0%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F.jpg"
+                        width="400" id="image_u45_gpp_mdc" align="center"/></info>
+            </step>
+            <step>
+                <cmd>选中Zotero图标，点击鼠标右键或两指轻触，选择<uicontrol>移到废纸篓</uicontrol>。</cmd>
+                <info><image
+                        href="../mac%E6%88%AA%E5%9B%BE/%E7%A7%BB%E5%88%B0%E5%BA%9F%E7%BA%B8%E7%AF%93.jpg"
+                        width="400" id="image_y53_4pp_mdc" align="center"/></info>
+            </step>
+            <step>
+                <cmd>回到之前打开的数据文件夹，选中后点击删除。</cmd>
+                <info><image href="../mac%E6%88%AA%E5%9B%BE/%E5%88%A0%E9%99%A4.jpg" width="400"
+                        id="image_vsy_qpp_mdc" align="center"/></info>
+            </step>
+        </steps>
+        <result id="result_wd5_4np_mdc">卸载完毕。</result>
+    </taskbody>
+    <related-links>
+        <link href="../%E5%8D%B8%E8%BD%BD%EF%BC%88Windows%EF%BC%89/Uninstall_windows.dita"
+            format="dita"/>
+    </related-links>
+</task>

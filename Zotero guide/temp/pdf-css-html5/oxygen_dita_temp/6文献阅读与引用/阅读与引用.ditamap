@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero guide/temp/pdf-css-html5/oxygen_dita_temp/6文献阅读与引用?><?workdir-uri file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/temp/pdf-css-html5/oxygen_dita_temp/6文献阅读与引用/?><?path2project ../?><?path2project-uri ../?><?path2rootmap-uri ../?><?doctype-public -//OASIS//DTD DITA Map//EN?><?doctype-system map.dtd?><map xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/6文献阅读与引用/阅读与引用.ditamap">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/6文献阅读与引用/阅读与引用.ditamap">使用Zotero进行文献阅读与引用</title>
+    <topicref class="- map/topicref " href="read.dita" xtrc="topicref:1;5:32" xtrf="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/6文献阅读与引用/阅读与引用.ditamap">
+        <topicref class="- map/topicref " href="zotero.dita" xtrc="topicref:2;6:38" xtrf="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/6文献阅读与引用/阅读与引用.ditamap">
+            <topicref class="- map/topicref " href="basi.dita" xtrc="topicref:3;7:41" xtrf="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/6文献阅读与引用/阅读与引用.ditamap"/>
+            <topicref class="- map/topicref " href="category.dita" xtrc="topicref:4;8:45" xtrf="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/6文献阅读与引用/阅读与引用.ditamap"/>
+            <topicref class="- map/topicref " href="note.dita" xtrc="topicref:5;9:41" xtrf="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/6文献阅读与引用/阅读与引用.ditamap"/>
+            <topicref class="- map/topicref " href="addwords.dita" xtrc="topicref:6;10:45" xtrf="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/6文献阅读与引用/阅读与引用.ditamap"/>
+            <topicref class="- map/topicref " href="selectzone.dita" xtrc="topicref:7;11:47" xtrf="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/6文献阅读与引用/阅读与引用.ditamap"/>
+            <topicref class="- map/topicref " href="draw.dita" xtrc="topicref:8;12:41" xtrf="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/6文献阅读与引用/阅读与引用.ditamap"/>
+            <topicref class="- map/topicref " href="bigsmall.dita" xtrc="topicref:9;13:45" xtrf="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/6文献阅读与引用/阅读与引用.ditamap"/>
+            <topicref class="- map/topicref " href="cut.dita" xtrc="topicref:10;14:40" xtrf="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/6文献阅读与引用/阅读与引用.ditamap"/>
+            <topicref class="- map/topicref " href="tagad.dita" xtrc="topicref:11;15:42" xtrf="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/6文献阅读与引用/阅读与引用.ditamap"/>
+            <topicref class="- map/topicref " href="connect.dita" xtrc="topicref:12;16:44" xtrf="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/6文献阅读与引用/阅读与引用.ditamap"/>
+        </topicref>
+        <topicref class="- map/topicref " href="further_with_plugin.dita" xtrc="topicref:13;18:51" xtrf="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/6文献阅读与引用/阅读与引用.ditamap">
+            <topicref class="- map/topicref " href="trans_use.dita" xtrc="topicref:14;19:46" xtrf="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/6文献阅读与引用/阅读与引用.ditamap"/>
+            <topicref class="- map/topicref " href="tags_use.dita" xtrc="topicref:15;20:45" xtrf="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/6文献阅读与引用/阅读与引用.ditamap"/>
+            <topicref class="- map/topicref " href="reference_use.dita" xtrc="topicref:16;21:50" xtrf="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/6文献阅读与引用/阅读与引用.ditamap"/>
+            <topicref class="- map/topicref " href="plugin_style.dita" xtrc="topicref:17;22:48" xtrf="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/6文献阅读与引用/阅读与引用.ditamap">
+                <topicref class="- map/topicref " href="keysnatch.dita" xtrc="topicref:18;23:50" xtrf="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/6文献阅读与引用/阅读与引用.ditamap"/>
+                <topicref class="- map/topicref " href="notag.dita" xtrc="topicref:19;24:46" xtrf="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/6文献阅读与引用/阅读与引用.ditamap"/>
+            </topicref>
+            <topicref class="- map/topicref " href="plugins_install.dita" xtrc="topicref:20;26:51" xtrf="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/6文献阅读与引用/阅读与引用.ditamap">
+                <topicref class="- map/topicref " href="add_translationplugin.dita" xtrc="topicref:21;27:62" xtrf="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/6文献阅读与引用/阅读与引用.ditamap"/>
+                <topicref class="- map/topicref " href="add_tagsplugin.dita" xtrc="topicref:22;28:55" xtrf="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/6文献阅读与引用/阅读与引用.ditamap"/>
+                <topicref class="- map/topicref " href="add_referenceplug.dita" xtrc="topicref:23;29:57" xtrf="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/6文献阅读与引用/阅读与引用.ditamap">
+                    <topicref class="- map/topicref " href="toubleshooting_reference.dita" xtrc="topicref:24;30:69" xtrf="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/6文献阅读与引用/阅读与引用.ditamap"/>
+                </topicref>
+                <topicref class="- map/topicref " href="add_ethereal.dita" xtrc="topicref:25;32:53" xtrf="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/6文献阅读与引用/阅读与引用.ditamap"/>
+            </topicref>
+        </topicref>
+    </topicref>
+    <topicref class="- map/topicref " href="how%20to%20cite.dita" xtrc="topicref:26;36:43" xtrf="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/6文献阅读与引用/阅读与引用.ditamap">
+        <topicref class="- map/topicref " href="troubleshooting_cite_0.dita" xtrc="topicref:27;37:55" xtrf="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/6文献阅读与引用/阅读与引用.ditamap"/>
+    </topicref>
+</map>

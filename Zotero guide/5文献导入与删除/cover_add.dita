@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="cover_add">
-    <title>文献导入与删除</title>
+    <title xml:lang="zh-CN">文献导入与删除</title>
     <shortdesc>本章节帮助您通过多种方式将文献导入Zotero,
         包括从本地导入、从浏览器网页导入、通过ISBN号等直接搜索导入。您也可以删除单条文献、只从文件夹里移除文件。</shortdesc>
 </topic>

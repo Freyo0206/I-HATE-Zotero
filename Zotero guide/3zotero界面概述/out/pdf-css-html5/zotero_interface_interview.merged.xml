@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/3zotero界面概述/zotero_interface_interview.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">Zotero界面概述</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">Zotero界面概述</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="zotero_interface_overview"><resourceid appid="zotero_interface_overview" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Zotero界面概述</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">本章节将介绍Zotero的操作界面，包括导航窗格、文献库展示区以及右侧面板的文献详情。您可以学习如何通过这些界面元素高效地管理文献资料，以及如何自定义视图以适应个人工作流程。</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_2" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="main_interface_introduction"><resourceid appid="main_interface_introduction" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">3.1 主界面介绍</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">Zotero的主界面是用户与文献管理软件交互的核心区域，它由导航窗格、文献库和右侧面板（文献详情）三个主要部分组成。</shortdesc></topicmeta><topicref class="- map/topicref " href="#unique_3" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="zotero_navigation_pane_0"><resourceid appid="zotero_navigation_pane_0" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">3.1.1 导航窗口</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">导航窗格位于界面左侧，您可以经此快速访问不同的文献库和分组。</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="zotero_library"><resourceid appid="zotero_library" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">3.1.2 文献库</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">文献库是管理和存储所有文献资料的核心区域。这里汇集了您收集的所有文献条目，包括书籍、期刊文章、会议论文等。</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="right_panel"><resourceid appid="right_panel" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">3.1.3 右侧面板（文献详情）</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">右侧面板是显示文献详细信息的区域。当您在文献库中选中一个具体文献条目时，右侧面板会展示该文献的详细资料和附加信息。</shortdesc></topicmeta></topicref></topicref><topicref class="- map/topicref " href="#unique_6" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="toolbar"><resourceid appid="toolbar" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_6" class="- topic/navtitle ">3.2 工具栏功能</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">文献库工具栏位于Zotero界面的顶部，提供了快速访问常用功能的按钮和选项。</shortdesc></topicmeta></topicref></topicref>
+</opentopic:map><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="zotero_interface_overview" oid="zotero_interface_overview" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Zotero界面概述</ph></title>
+    <shortdesc class="- topic/shortdesc ">本章节将介绍Zotero的操作界面，包括导航窗格、文献库展示区以及右侧面板的文献详情。您可以学习如何通过这些界面元素高效地管理文献资料，以及如何自定义视图以适应个人工作流程。</shortdesc>
+<topic class="- topic/topic " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="main_interface_introduction" oid="main_interface_introduction" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">3.1 主界面介绍</ph></title>
+    <shortdesc class="- topic/shortdesc ">Zotero的主界面是用户与文献管理软件交互的核心区域，它由导航窗格、文献库和右侧面板（文献详情）三个主要部分组成。</shortdesc>
+<topic class="- topic/topic " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="zotero_navigation_pane_0" oid="zotero_navigation_pane_0" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">3.1.1 导航窗口</ph></title>
+    <shortdesc class="- topic/shortdesc ">导航窗格位于界面左侧，您可以经此快速访问不同的文献库和分组。</shortdesc>
+    <body class="- topic/body ">
+        <section class="- topic/section " id="unique_3_Connect_42_section_zcc_jfz_kdc" nd:nd-id="section_zcc_jfz_kdc"><title class="- topic/title ">我的文库</title><p class="- topic/p ">“我的文库”是个人文献收藏的核心区域，汇集您收集的所有文献条目，您可以在这里查看、编辑和管理自己的文献资料。</p>
+            <image align="center" class="- topic/image " height="350" href="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/3zotero界面概述/图片/我的文库0.png" id="unique_3_Connect_42_image_xwv_hrv_ldc" nd:nd-id="image_xwv_hrv_ldc" placement="inline" width="500"/></section>
+        <section class="- topic/section ">
+            <title class="- topic/title ">标签
+            </title><p class="- topic/p ">您可以创建不同的标签对文献进行分类。在导航窗格的“标签”部分，可以快速访问所有已创建的标签，根据标签筛选和查看相关文献。</p>
+            <p class="- topic/p "><image class="- topic/image " height="350" href="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/3zotero界面概述/图片/标签0.png" id="unique_3_Connect_42_image_ocv_4rv_ldc" nd:nd-id="image_ocv_4rv_ldc" placement="inline" width="500"/></p>
+        </section>
+        <section class="- topic/section ">
+            <title class="- topic/title ">搜索功能 </title><p class="- topic/p ">导航窗格还包含了一个搜索框，您可以在这里输入关键词，快速检索整个文库中的文献，提高查找特定文献的效率。</p>
+            <image align="center" class="- topic/image " height="350" href="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/3zotero界面概述/图片/搜索功能%200.png" id="unique_3_Connect_42_image_yqs_wrv_ldc" nd:nd-id="image_yqs_wrv_ldc" placement="inline" width="500"/></section>
+    </body>
+</topic><topic class="- topic/topic " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="zotero_library" oid="zotero_library" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">3.1.2 文献库</ph></title>
+    <shortdesc class="- topic/shortdesc ">文献库是管理和存储所有文献资料的核心区域。这里汇集了您收集的所有文献条目，包括书籍、期刊文章、会议论文等。</shortdesc>
+    <body class="- topic/body ">
+        <p class="- topic/p "><image align="center" class="- topic/image " height="350" href="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/3zotero界面概述/图片/文献库.png" id="unique_4_Connect_42_image_ahr_dnz_kdc" nd:nd-id="image_ahr_dnz_kdc" placement="inline" width="500"/></p>
+    </body>
+</topic><topic class="- topic/topic " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="right_panel" oid="right_panel" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">3.1.3 右侧面板（文献详情）</ph></title>
+    <shortdesc class="- topic/shortdesc ">右侧面板是显示文献详细信息的区域。当您在文献库中选中一个具体文献条目时，右侧面板会展示该文献的详细资料和附加信息。</shortdesc>
+    <body class="- topic/body ">
+        <p class="- topic/p "><image align="center" class="- topic/image " height="350" href="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/3zotero界面概述/图片/右侧面板.png" id="unique_5_Connect_42_image_wbw_f4z_kdc" nd:nd-id="image_wbw_f4z_kdc" placement="inline" width="500"/></p>
+    </body>
+</topic></topic><topic class="- topic/topic " id="unique_6" topicrefclass="- map/topicref " nd:nd-id="toolbar" oid="toolbar" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">3.2 工具栏功能</ph></title>
+    <shortdesc class="- topic/shortdesc ">文献库工具栏位于Zotero界面的顶部，提供了快速访问常用功能的按钮和选项。</shortdesc>
+    <body class="- topic/body ">
+        <section class="- topic/section " id="unique_6_Connect_42_section_lmr_ltv_ldc" nd:nd-id="section_lmr_ltv_ldc"><title class="- topic/title ">新建条目</title><p class="- topic/p ">您可以手动创建一个新的文献条目。此功能主要用于以下几种情况：1.
+                文献信息不完整时，需要手动输入；2. 添加非标准格式的文献（如个人通信、会议论文等），或者在线数据库中没有收录的文献；3. 添加未发表的文献。</p><image align="center" class="- topic/image " height="350" href="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/3zotero界面概述/图片/新建条目.png" id="unique_6_Connect_42_image_mfd_l5v_ldc" nd:nd-id="image_mfd_l5v_ldc" placement="inline" width="500"/></section>
+        <section class="- topic/section " id="unique_6_Connect_42_section_p1c_p5v_ldc" nd:nd-id="section_p1c_p5v_ldc"><title class="- topic/title ">通过标识码添加条目
+                </title><p class="- topic/p ">您可以通过输入文献的ISBN号、数字对象标识符（DOI）、PubMed
+                ID等唯一标识符自动添加文献条目到Zotero文献库中。此功能适合于快速和批量添加文献，可以确保信息的准确性。</p>
+            <image align="center" class="- topic/image " height="350" href="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/3zotero界面概述/图片/标识码添加条目.png" id="unique_6_Connect_42_image_fqc_1vv_ldc" nd:nd-id="image_fqc_1vv_ldc" placement="inline" width="500"/></section>
+        <section class="- topic/section " id="unique_6_Connect_42_section_utd_2pz_kdc" nd:nd-id="section_utd_2pz_kdc"><title class="- topic/title ">添加文献</title><p class="- topic/p ">您可以通过点击工具栏上的“添加”按钮来添加新的文献条目到文献库。此功能通常用于导入本地的文件。</p>
+            <image align="center" class="- topic/image " height="350" href="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/3zotero界面概述/图片/添加文献0.png" id="unique_6_Connect_42_image_xpv_nsv_ldc" nd:nd-id="image_xpv_nsv_ldc" placement="inline" width="500"/></section>
+        <section class="- topic/section " id="unique_6_Connect_42_section_hxv_cvv_ldc" nd:nd-id="section_hxv_cvv_ldc">
+            <title class="- topic/title ">新建笔记</title>
+            <p class="- topic/p ">用户可以为特定的文献条目添加笔记，以记录阅读文献时的想法、评论、摘要或任何其他相关信息。</p>
+            <p class="- topic/p "><image class="- topic/image " href="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/3zotero界面概述/图片/添加笔记.png" id="unique_6_Connect_42_image_xj5_lxg_mdc" nd:nd-id="image_xj5_lxg_mdc" placement="inline" width="500"/></p>
+        </section>
+        <section class="- topic/section " id="unique_6_Connect_42_section_r5y_bqz_kdc" nd:nd-id="section_r5y_bqz_kdc"><title class="- topic/title ">搜索与筛选</title><p class="- topic/p ">工具栏提供了一个搜索框，您可以在这里输入关键词搜索整个文库。此外，还有筛选器功能，可以根据特定的条件（如文献类型、创建日期等）来筛选文献。</p>
+            <image align="center" class="- topic/image " height="350" href="file:/Users/haihai/Desktop/mac研一上/英汉技术写作/I-HATE-Zotero/Zotero%20guide/3zotero界面概述/图片/搜索与筛选0.png" id="unique_6_Connect_42_image_ggg_rsv_ldc" nd:nd-id="image_ggg_rsv_ldc" placement="inline" width="500"/></section>
+        <note class="- topic/note " id="unique_6_Connect_42_note_l2d_nvv_ldc" nd:nd-id="note_l2d_nvv_ldc">关于具体功能的实际操作，会在后续相应章节展开。</note>
+    </body>
+</topic></topic></map>

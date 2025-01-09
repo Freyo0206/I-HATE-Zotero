@@ -4,8 +4,8 @@
     <title>引用文献常见问题</title>
     <troublebody>
         <condition>
-            <title>Condition</title>
-            <p>在使用Zotero的引用相关功能时，若遇到问题可查看此文档中是否给出解决办法。</p>
+            <title>问题描述</title>
+            <p>Microsoft Word中没有Zotero图标。</p>
         </condition>
         <troubleSolution>
             <cause id="cause_qdq_ysz_ldc">
@@ -14,28 +14,27 @@
             </cause>
             <remedy id="remedy_rdq_ysz_ldc">
                 <title>Remedy</title>
-                <responsibleParty>Zotero与Microsoft Word</responsibleParty>
                 <steps id="steps_sdq_ysz_ldc">
                     <step>
                         <cmd>打开Zotero的设置页面。</cmd>
                     </step>
                     <step>
                         <cmd>选择引用选项，滑动到对话框最下面，点击<uicontrol>重新安装加载项Microsoft Word</uicontrol>。</cmd>
-                        <info><image href="image/restore.jpg" width="600" id="image_nbw_v3z_ldc"
-                            /></info>
+                        <info><image href="image/restore.jpg" width="400" id="image_nbw_v3z_ldc"
+                                align="center"/></info>
                     </step>
                     <step>
                         <cmd>在Microsfot Word中的工具栏中选择<uicontrol>模板和加载项</uicontrol>。</cmd>
-                        <info><image href="image/micro.jpg" width="600" id="image_dmd_ljz_ldc"
-                            /></info>
+                        <info><image href="image/micro.jpg" width="400" id="image_dmd_ljz_ldc"
+                                align="center"/></info>
                     </step>
                     <step>
                         <cmd>勾选Zotero。</cmd>
                         <info><image href="image/load.jpg" width="300" id="image_p22_sjz_ldc"
-                            /></info>
+                                align="center"/></info>
                     </step>
                     <step>
-                        <cmd>分别重启两个软件。</cmd>
+                        <cmd>分别重启Word和Zotero。</cmd>
                     </step>
                 </steps>
             </remedy>

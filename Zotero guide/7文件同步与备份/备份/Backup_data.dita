@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_rqp_y4d_mdc">
-    <title>如何手动备份Zotero数据</title>
-    <shortdesc>介绍手动备份Zotero数据的步骤</shortdesc>
+    <title>7.3.2 手动备份Zotero数据</title>
+    <shortdesc>本节介绍手动备份Zotero数据的步骤。</shortdesc>
     <taskbody>
         <prereq id="prereq_iyj_z4d_mdc">确保已关闭Zotero软件。</prereq>
         <context/>

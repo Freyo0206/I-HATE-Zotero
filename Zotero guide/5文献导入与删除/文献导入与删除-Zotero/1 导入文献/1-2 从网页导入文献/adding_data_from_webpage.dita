@@ -4,7 +4,7 @@
     <title>部分资料类型可能不支持直接导入</title>
     <troublebody>
         <condition>
-            <title>问题</title>
+            <title>问题描述</title>
             <p>不同的文献资料类型可能出现不能直接导入Zotero的情况。</p>
         </condition>
         <troubleSolution>
@@ -13,16 +13,16 @@
                 <p>Zotero只能抓取屏幕截屏，而不能连接到数据库。</p>
                 <p><image
                         href="%E6%88%AA%E5%B1%8F/%E4%B8%8D%E8%83%BD%E7%9B%B4%E6%8E%A5%E5%AF%BC%E5%85%A5Zotero.png"
-                        width="600" id="image_ikr_3rn_ldc"/></p>
+                        width="600" id="image_ikr_3rn_ldc" align="center"/></p>
             </cause>
             <remedy>
-                <title>解决办法</title>
+                <title>解决方案</title>
                 <steps>
                     <step>
                         <cmd>点击<uicontrol>引用数据库</uicontrol>。</cmd>
                         <info><image
                                 href="%E6%88%AA%E5%B1%8F/%E7%82%B9%E5%87%BB%E5%BC%95%E7%94%A8%E6%95%B0%E6%8D%AE%E5%BA%93%E4%B8%8B%E8%BD%BD%E6%95%B0%E6%8D%AE.png"
-                                width="600" id="image_e4r_nrn_ldc"/></info>
+                                width="600" id="image_e4r_nrn_ldc" align="center"/></info>
                     </step>
                     <step>
                         <cmd>选择需要的数据格式，点击下载并保存。</cmd>
@@ -41,8 +41,8 @@
                     </step>
                 </steps>
             </remedy>
-            <remedy>
-                <title>如出现其他问题请访问</title>
+            <remedy xml:lang="zh-CN">
+                <title xml:lang="zh-CN">更多问题请访问</title>
                 <steps-informal id="steps-informal_kmp_dd1_mdc"><xref
                         href="https://forums.zotero.org/discussions/" format="html" scope="external"
                     /></steps-informal>

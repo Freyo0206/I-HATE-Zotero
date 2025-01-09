@@ -2,47 +2,53 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="keysnatch">
     <title>文献密钥匹配</title>
-    <shortdesc>再通过Ethereal Style插件实现更多文献信息可视的过程当中，需要进行文献密钥抓取才能够实现文献信息的自动读取</shortdesc>
+    <shortdesc>再通过Ethereal Style插件实现更多文献信息可视的过程当中，需要进行文献密钥抓取才能够实现文献信息的自动读取。</shortdesc>
     <taskbody>
         <context/>
         <steps>
             <step>
-                <cmd>通过网页搜索，访问<b>Easy Scholar</b></cmd>
+                <cmd>通过网页搜索，访问<b>Easy Scholar</b>。</cmd>
                 <info><image href="image/easy.jpg" width="600" id="image_xxv_44n_xdc"/></info>
             </step>
             <step>
-                <cmd>点击注册,并登陆</cmd>
-                <info><image href="image/register.jpg" width="600" id="image_sp3_v4n_xdc"/></info>
+                <cmd>点击注册,并登陆。</cmd>
+                <info><image href="image/register.jpg" width="600" id="image_sp3_v4n_xdc"
+                        align="center"/></info>
             </step>
             <step>
                 <cmd>点击<b>我的信息</b></cmd>
-                <info><image href="image/myinfo.jpg" width="600" id="image_bk2_dpn_xdc"/></info>
+                <info><image href="image/myinfo.jpg" width="600" id="image_bk2_dpn_xdc"
+                        align="center"/></info>
             </step>
             <step>
-                <cmd>选择<b>开放接口</b></cmd>
+                <cmd>选择<b>开放接口</b>。</cmd>
                 <info><image href="image/jiekou.jpg" width="200" id="image_jhy_3pn_xdc"/></info>
             </step>
             <step>
-                <cmd>复制密钥</cmd>
-                <info><image href="image/secretkey.jpg" width="600" id="image_o2c_ppn_xdc"/></info>
+                <cmd>复制密钥。</cmd>
+                <info><image href="image/secretkey.jpg" width="600" id="image_o2c_ppn_xdc"
+                        align="center"/></info>
             </step>
             <step>
-                <cmd>打开Zotero中的设置</cmd>
+                <cmd>打开Zotero中的设置。</cmd>
                 <info><image href="image/sett.jpg" width="200" id="image_kbd_5pn_xdc"/></info>
             </step>
             <step>
-                <cmd>在高级栏中打开编辑器</cmd>
-                <info><image href="image/edit.jpg" width="600" id="image_lj5_1qn_xdc"/></info>
+                <cmd>在高级栏中打开编辑器。</cmd>
+                <info><image href="image/edit.jpg" width="400" id="image_lj5_1qn_xdc" align="center"
+                    /></info>
             </step>
             <step>
-                <cmd>在搜索框中搜索<b>Easy Scholar</b></cmd>
-                <info><image href="image/easys.jpg" width="600" id="image_vg2_kqn_xdc"/></info>
+                <cmd>在搜索框中搜索<b>Easy Scholar</b>。</cmd>
+                <info><image href="image/easys.jpg" width="600" id="image_vg2_kqn_xdc"
+                        align="center"/></info>
             </step>
             <step>
-                <cmd>在框中粘贴刚刚复制的密钥，并点击确定按钮</cmd>
-                <info><image href="image/keykey.jpg" width="600" id="image_v53_crn_xdc"/></info>
+                <cmd>在框中粘贴刚刚复制的密钥，并点击确定按钮。</cmd>
+                <info><image href="image/keykey.jpg" width="600" id="image_v53_crn_xdc"
+                        align="center"/></info>
             </step>
         </steps>
-        <result id="result_erw_crn_xdc">配置完成</result>
+        <result id="result_erw_crn_xdc">配置完成。</result>
     </taskbody>
 </task>

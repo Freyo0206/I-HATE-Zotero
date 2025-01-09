@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="tags_use">
-    <title>如何使用标签插件进行阅读</title>
+    <title>6.1.2.2 使用标签插件进行阅读</title>
     <shortdesc>通过标签插件可在Zotero中对于文库中的文献条目进行显著的标记，更大限度的提高对于文献的分类管理（<xref href="add_tagsplugin.dita"
-            format="dita">插件安装</xref>）</shortdesc>
+            format="dita">插件安装</xref>）。</shortdesc>
     <taskbody>
         <context/>
         <steps>
             <step>
                 <cmd>在Zotero的设置中打开<uicontrol>Anctions &amp;Tags</uicontrol>的设置。</cmd>
-                <info><image href="image/ant.jpg" width="600" id="image_azr_hnz_ldc"/></info>
+                <info><image href="image/ant.jpg" width="400" id="image_azr_hnz_ldc" align="center"
+                    /></info>
             </step>
             <step>
                 <cmd>创建新动作。</cmd>
-                <info><image href="image/newaction.jpg" width="600" id="image_ofv_3nz_ldc"/></info>
+                <info><image href="image/newaction.jpg" width="400" id="image_ofv_3nz_ldc"
+                        align="center"/></info>
             </step>
             <step>
                 <cmd>对新动作进行设置（图中为示例，用户可根据偏好设置）。</cmd>
-                <info><image href="image/exa.jpg" width="600" id="image_czm_knz_ldc"/></info>
+                <info><image href="image/exa.jpg" width="400" id="image_czm_knz_ldc" align="center"
+                    /></info>
             </step>
             <step>
                 <cmd>选中目标文档，使用设置好的快捷键进行操作。</cmd>
-                <info><image href="image/ico.jpg" width="600" id="image_lks_lnz_ldc"/></info>
+                <info><image href="image/ico.jpg" width="400" id="image_lks_lnz_ldc" align="center"
+                    /></info>
             </step>
         </steps>
     </taskbody>

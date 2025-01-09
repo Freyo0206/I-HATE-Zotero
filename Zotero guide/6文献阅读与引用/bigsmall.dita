@@ -2,13 +2,14 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="bigsmall">
     <title>放大/缩放</title>
-    <shortdesc>用户可根据阅读习惯与需求对于正在阅读的文献进行放大或缩放</shortdesc>
+    <shortdesc>用户可根据阅读习惯与需求对于正在阅读的文献进行放大或缩放。</shortdesc>
     <taskbody>
         <context/>
         <steps>
             <step>
                 <cmd>标注中的三个按钮从左到右分别为缩小、放大、恢复默认（用户也可通过触控板进行操作）。</cmd>
-                <info><image href="image/size.jpg" width="600" id="image_utj_pxn_xdc"/></info>
+                <info><image href="image/size.jpg" width="600" id="image_utj_pxn_xdc" align="center"
+                    /></info>
             </step>
         </steps>
     </taskbody>

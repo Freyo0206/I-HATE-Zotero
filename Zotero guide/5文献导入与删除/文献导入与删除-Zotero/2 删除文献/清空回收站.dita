@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="清空回收站">
+    <title>清空回收站</title>
+    <shortdesc>从文库中移除的条目都会储存在回收站中，大量条目可能会占用内存空间。用户可以根据需要清空回收站。</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>在左边工具栏中找到<uicontrol>回收站</uicontrol>按钮<image
+                        href="%E6%88%AA%E5%B1%8F/%E5%9B%9E%E6%94%B6%E7%AB%99%E6%8C%89%E9%92%AE2.png"
+                        width="400" id="image_cgv_kn4_ydc" align="center"/></cmd>
+            </step>
+            <step>
+                <cmd>鼠标右键点击回收站按钮，点击<uicontrol>清空回收站</uicontrol>按钮。</cmd>
+                <info><image
+                        href="%E6%88%AA%E5%B1%8F/%E6%B8%85%E7%A9%BA%E5%9B%9E%E6%94%B6%E7%AB%99.png"
+                        width="300" id="image_s13_qn4_ydc" align="center"/></info>
+                <stepresult>回收站内容将清空且不可恢复，完成回收站清空。</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -4,11 +4,12 @@
     <title>Zotero图标不可用</title>
     <troublebody>
         <condition>
-            <title>Condition </title>
+            <title>问题描述 </title>
             <p>在一些特定网页，可能出现Zotero图标不显示的情况。</p>
         </condition>
         <troubleSolution>
             <cause id="cause_o22_rml_ldc">
+                <title xml:lang="zh-CN">原因</title>
                 <p>部分学术网页、数据库网站可能限制了Zotero抓取功能。</p>
             </cause>
             <remedy>

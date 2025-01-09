@@ -56,14 +56,12 @@
                path="5文献导入与删除/文献导入与删除-Zotero/1%20导入文献/1-1%20本地导入文献/导入文献_0.html"/>
    <appContext helpID="导入本地文献"
                path="5文献导入与删除/文献导入与删除-Zotero/1%20导入文献/1-1%20本地导入文献/导入本地文献.html"/>
+   <appContext helpID="e6_97_a0_e6_a0_87_e9_a2_982"
+               path="5文献导入与删除/文献导入与删除-Zotero/1%20导入文献/1-1%20本地导入文献/e6_97_a0_e6_a0_87_e9_a2_982.html"/>
    <appContext helpID="adding_items_to_zotero"
                path="5文献导入与删除/文献导入与删除-Zotero/1%20导入文献/1-1%20本地导入文献/adding_items_to_zotero.html"/>
-   <appContext helpID="edit_the_item_information"
-               path="5文献导入与删除/文献导入与删除-Zotero/1%20导入文献/1-1%20本地导入文献/edit_the_item_information.html"/>
    <appContext helpID="chose_the_wrong_type_of_item"
                path="5文献导入与删除/文献导入与删除-Zotero/1%20导入文献/1-1%20本地导入文献/chose_the_wrong_type_of_item.html"/>
-   <appContext helpID="从浏览器导入文献"
-               path="5文献导入与删除/文献导入与删除-Zotero/1%20导入文献/1-2%20从网页导入文献/从浏览器导入文献.html"/>
    <appContext helpID="add_items_from_webpage"
                path="5文献导入与删除/文献导入与删除-Zotero/1%20导入文献/1-2%20从网页导入文献/add_items_from_webpage.html"/>
    <appContext helpID="adding_data_from_webpage"
@@ -73,6 +71,7 @@
    <appContext helpID="删除文献" path="5文献导入与删除/文献导入与删除-Zotero/2%20删除文献/删除文献.html"/>
    <appContext helpID="delete_single_item"
                path="5文献导入与删除/文献导入与删除-Zotero/2%20删除文献/delete_single_item.html"/>
+   <appContext helpID="清空回收站" path="5文献导入与删除/文献导入与删除-Zotero/2%20删除文献/清空回收站.html"/>
    <appContext helpID="remove_item_form_folder"
                path="5文献导入与删除/文献导入与删除-Zotero/2%20删除文献/remove_item_form_folder.html"/>
    <appContext helpID="recover_item_from_trash"
@@ -118,8 +117,9 @@
    <appContext helpID="task_py4_rt5_ldc" path="6文献阅读与引用/how%20to%20cite.html"/>
    <appContext helpID="troubleshooting_cite_0"
                path="6文献阅读与引用/troubleshooting_cite_0.html"/>
-   <appContext helpID="cover_sync_bkup" path="7文件同步与备份/cover_sync_bkup.html"/>
+   <appContext helpID="sync_cover" path="7文件同步与备份/sync_cover.html"/>
    <appContext helpID="cover_regis" path="7文件同步与备份/注册与登录/cover_regis.html"/>
+   <appContext helpID="Introduction" path="7文件同步与备份/注册与登录/Introduction.html"/>
    <appContext helpID="zotero" path="7文件同步与备份/注册与登录/Register.html"/>
    <appContext helpID="sign_in" path="7文件同步与备份/注册与登录/Log_in.html"/>
    <appContext helpID="forget_password" path="7文件同步与备份/注册与登录/Forget_password.html"/>
@@ -143,4 +143,9 @@
                path="7文件同步与备份/备份/Data_directory_content.html"/>
    <appContext helpID="Locating_data" path="7文件同步与备份/备份/Locating_data.html"/>
    <appContext helpID="task_rqp_y4d_mdc" path="7文件同步与备份/备份/Backup_data.html"/>
+   <appContext helpID="unload" path="8卸载/cover_unload.html"/>
+   <appContext helpID="uninstall_windows"
+               path="8卸载/卸载（Windows）/Uninstall_windows.html"/>
+   <appContext helpID="unload_mac" path="8卸载/mac截图/unload_mac.html"/>
+   <appContext helpID="unload_ts_mac" path="8卸载/mac截图/unload_ts_mac.html"/>
 </map>

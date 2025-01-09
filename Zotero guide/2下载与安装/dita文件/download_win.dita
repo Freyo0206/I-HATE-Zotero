@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="download">
-    <title>Zotero下载（win版）</title>
+    <title>2.1.1 Zotero下载（win版）</title>
     <shortdesc>本节介绍如何在Windows系统电脑上下载Zotero安装包。</shortdesc>
     <taskbody>
-        <context>
-            <p/>
-        </context>
+        <context/>
         <steps>
             <step>
-                <cmd>打开Google Chrome或其他浏览器，登陆网址<xref href="https://www.zotero.org/download/" format="html" scope="external"/>。</cmd>
+                <cmd xml:lang="zh-CN">打开Google Chrome或其他浏览器，登陆网址<xref
+                        href="https://www.zotero.org/download/" format="html" scope="external"
+                    />。</cmd>
             </step>
             <step>
                 <cmd>点击<uicontrol>Download</uicontrol>。</cmd>
                 <info><image
                         href="../%E5%9B%BE%E7%89%87/win%E4%B8%8B%E8%BD%BD/win%20%E5%AE%98%E7%BD%91%E4%B8%8B%E8%BD%BD%E9%94%AE.jpg"
-                        width="400" id="image_ipk_qyy_ldc"/></info>
+                        width="300" id="image_ipk_qyy_ldc" align="center"/></info>
             </step>
             <step>
                 <cmd>下载完成后如图所示。</cmd>
                 <info><image
                         href="../%E5%9B%BE%E7%89%87/win%E4%B8%8B%E8%BD%BD/win%20%E4%B8%8B%E8%BD%BD%E5%AE%8C%E6%88%90%E7%95%8C%E9%9D%A2.jpg"
-                        width="600" id="image_wwf_ryy_ldc"/></info>
+                        width="600" id="image_wwf_ryy_ldc" align="center"/></info>
             </step>
         </steps>
     </taskbody>

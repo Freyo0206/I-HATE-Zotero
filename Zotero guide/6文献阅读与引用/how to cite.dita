@@ -1,52 +1,58 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="task_py4_rt5_ldc">
-    <title>如何使用Zotero引用文献（Microsoft Word）</title>
+    <title>6.2 使用Zotero引用文献（Microsoft Word）</title>
     <shortdesc>通过引用功能能够使文献管理软件在阅读和写作过程当中实现很好的交互，以提高文献管理效率。</shortdesc>
     <taskbody>
         <prereq id="prereq_ab3_wbz_ldc">实现自动生成引用条目需要保证在Zotero中的导入文件包含引用所需的相关信息。更多导入相关内容可阅读<xref
                 href="cover_read.dita" format="dita">导入</xref>章节的内容。 <image href="image/info.jpg"
-                width="600" id="image_pyx_4cz_ldc"/></prereq>
+                width="450" id="image_pyx_4cz_ldc" align="center"/></prereq>
         <context/>
         <steps>
             <step>
                 <cmd>确认您的Microsoft Word当中已嵌入Zotero插件（如图），如有问题可通过<xref
                         href="troubleshooting_cite_0.dita" format="dita"
                     >Troubleshooting_Cite</xref>文档查看解决办法。</cmd>
-                <info><image href="image/soft.jpg" width="600" id="image_tq5_f2z_ldc"/></info>
+                <info><image href="image/soft.jpg" width="400" id="image_tq5_f2z_ldc" align="center"
+                    /></info>
             </step>
             <step>
                 <cmd>在需要标记引用的位置点击此按钮（可在同一位置进行多次引用操作）。</cmd>
-                <info><image href="image/cite.jpg" width="600" id="image_rfx_m2z_ldc"/></info>
+                <info><image href="image/cite.jpg" width="400" id="image_rfx_m2z_ldc" align="center"
+                    /></info>
             </step>
             <step>
                 <cmd>在此对话框中对于引用所需格式进行选取。</cmd>
-                <info><image href="image/format.jpg" width="600" id="image_vfq_52z_ldc"/></info>
+                <info><image href="image/format.jpg" width="400" id="image_vfq_52z_ldc"
+                        align="center"/></info>
             </step>
             <step>
                 <cmd>在弹出的对话框中选出需要引用的文献，并点击右侧箭头进行确认。</cmd>
-                <info><image href="image/citation.jpg" width="600" id="image_lzs_lfz_ldc"/></info>
+                <info><image href="image/citation.jpg" width="450" id="image_lzs_lfz_ldc"
+                        align="center"/></info>
             </step>
             <step>
                 <cmd>在需要显示参考文献内容的位置点击图中按钮便可自动生成条目。</cmd>
-                <info><image href="image/add_bibli.jpg" width="600" id="image_hg3_1gz_ldc"/></info>
-                <info><image href="image/referen.jpg" width="600" id="image_m5t_4gz_ldc"/></info>
+                <info><image href="image/add_bibli.jpg" width="450" id="image_hg3_1gz_ldc"
+                        align="center"/></info>
+                <info><image href="image/referen.jpg" width="450" id="image_m5t_4gz_ldc"
+                        align="center"/></info>
             </step>
             <step>
                 <cmd>如需删除直接在正文引用处使用<uicontrol>Delete</uicontrol>键进行删除即可。</cmd>
             </step>
             <step>
-                <cmd>如需调整引用的位置</cmd>
+                <cmd>如需调整引用的位置：</cmd>
                 <substeps>
                     <substep>
                         <cmd>可直接拖拽引用后产生的角标。</cmd>
-                        <info><image href="image/move.jpg" width="600" id="image_qj1_ykz_ldc"
-                            /></info>
+                        <info><image href="image/move.jpg" width="500" id="image_qj1_ykz_ldc"
+                                align="center"/></info>
                     </substep>
                     <substep>
                         <cmd>点击<uicontrol>Refresh</uicontrol>按钮，序号会自动重新排列。</cmd>
-                        <info><image href="image/refresh.jpg" width="600" id="image_bwf_dlz_ldc"
-                            /></info>
+                        <info><image href="image/refresh.jpg" width="500" id="image_bwf_dlz_ldc"
+                                align="center"/></info>
                     </substep>
                 </substeps>
             </step>
@@ -55,8 +61,8 @@
                 <substeps>
                     <substep>
                         <cmd>在Zotero打开设置，选择<uicontrol>引用</uicontrol>选项，滑动鼠标到最下面，选中此选项。</cmd>
-                        <info><image href="image/web.jpg" width="600" id="image_inb_jb1_mdc"
-                            /></info>
+                        <info><image href="image/web.jpg" width="500" id="image_inb_jb1_mdc"
+                                align="center"/></info>
                         <stepresult>设置完成。</stepresult>
                     </substep>
                 </substeps>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="download">
-    <title>Zotero下载（mac版）</title>
+    <title xml:lang="zh-CN">2.2.1 Zotero下载（mac版）</title>
     <shortdesc>本节介绍如何在mac电脑上下载Zotero安装包。</shortdesc>
     <taskbody>
         <context>
@@ -16,19 +16,19 @@
                 <cmd>点击<uicontrol>Download</uicontrol>。</cmd>
                 <info><image
                         href="../%E5%9B%BE%E7%89%87/mac%E4%B8%8B%E8%BD%BD/%E5%AE%98%E7%BD%91%E4%B8%8B%E8%BD%BD%E9%94%AE.jpg"
-                        width="500" id="image_z54_fyy_ldc"/></info>
+                        width="350" id="image_z54_fyy_ldc" align="center"/></info>
             </step>
             <step>
                 <cmd>点击<uicontrol>允许</uicontrol>。</cmd>
                 <info><image
                         href="../%E5%9B%BE%E7%89%87/mac%E4%B8%8B%E8%BD%BD/%E5%85%81%E8%AE%B8%E9%94%AE.jpg"
-                        width="500" id="image_kqg_gyy_ldc"/></info>
+                        width="350" id="image_kqg_gyy_ldc" align="center"/></info>
             </step>
             <step>
                 <cmd>下载成功后如图所示。</cmd>
                 <info><image
                         href="../%E5%9B%BE%E7%89%87/mac%E4%B8%8B%E8%BD%BD/%E4%B8%8B%E8%BD%BD%E5%AE%8C%E6%88%90%E7%95%8C%E9%9D%A2.jpg"
-                        width="600" id="image_wrw_gyy_ldc"/></info>
+                        width="600" id="image_wrw_gyy_ldc" align="center"/></info>
             </step>
         </steps>
     </taskbody>

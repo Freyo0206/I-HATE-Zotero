@@ -4,7 +4,8 @@
     <title>导入文献时选错了条目类型</title>
     <troublebody>
         <condition>
-            <p>导入文献时选择了错误的条目类型。</p>
+            <title>问题描述</title>
+            <p xml:lang="zh-CN">导入文献时选择了错误的条目类型。</p>
         </condition>
         <troubleSolution>
             <cause>
@@ -12,7 +13,7 @@
                 <p>新建条目时，选择了错误的导入条目类型，比如将<uicontrol>期刊文章</uicontrol>选成了<uicontrol>图书</uicontrol>。</p>
             </cause>
             <remedy>
-                <title>解决办法</title>
+                <title>解决方案</title>
                 <steps>
                     <step>
                         <cmd>点击要更改类型的条目。</cmd>
@@ -24,10 +25,16 @@
                         <cmd>在弹出的菜单中点击选择正确的条目。</cmd>
                         <info><image
                                 href="%E6%88%AA%E5%9B%BE/7%20%E6%9B%B4%E6%94%B9%E6%9D%A1%E7%9B%AE%E7%B1%BB%E5%9E%8B.png"
-                                width="600" id="image_h5d_r32_ldc"/></info>
+                                width="600" id="image_h5d_r32_ldc" align="center"/></info>
                         <stepresult>Zotero会自动保存更改，条目类型更改完成。</stepresult>
                     </step>
                 </steps>
+            </remedy>
+            <remedy>
+                <title>更多问题请访问</title>
+                <steps-informal id="steps-informal_ld3_sb1_mdc"><xref
+                        href="https://forums.zotero.org/discussions" format="html" scope="external"
+                    /></steps-informal>
             </remedy>
         </troubleSolution>
     </troublebody>

@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="cover_regis">
-    <title>注册与登录</title>
-    <body>
-        <p></p>
-    </body>
+    <title>7.1 注册与登录</title>
+    <shortdesc>注册并登录Zotero帐号后，用户可通过Zotero同步和备份文献管理数据，Zotero便捷的云存储和协作功能能够帮助用户更高效地进行文献阅读和写作。</shortdesc>
+    <body/>
 </topic>

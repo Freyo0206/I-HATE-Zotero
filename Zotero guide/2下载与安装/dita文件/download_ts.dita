@@ -3,20 +3,20 @@
 <troubleshooting id="ts_download">
     <title>下载失败</title>
     <troublebody>
-        <condition>
-            <title>Condition</title>
+        <condition xml:lang="zh-CN">
+            <title>问题描述</title>
             <p>Zotero安装包下载失败。</p>
         </condition>
         <troubleSolution>
             <cause>
-                <title>Cause</title>
-                <p>网络中断或不稳定。<image
+                <title>原因</title>
+                <p xml:lang="zh-CN">网络中断或不稳定。</p>
+                <p xml:lang="zh-CN"><image
                         href="../%E5%9B%BE%E7%89%87/mac%E4%B8%8B%E8%BD%BD/ts%20%E7%BD%91%E7%BB%9C%E4%B8%AD%E6%96%AD.jpg"
                         width="300" id="image_k3k_f1z_ldc"/></p>
             </cause>
             <remedy>
-                <title>Remedy</title>
-                <responsibleParty>IT Center</responsibleParty>
+                <title>解决方案</title>
                 <steps>
                     <step>
                         <cmd>切换WiFi，或使用有线网络、手机热点。</cmd>
@@ -29,12 +29,11 @@
         </troubleSolution>
         <troubleSolution>
             <cause>
-                <title>Cause</title>
-                <p>电脑内存不足</p>
+                <title>原因</title>
+                <p>电脑内存不足。</p>
             </cause>
             <remedy id="remedy_vds_bbz_ldc">
-                <title>Remedy</title>
-                <responsibleParty>Personal Computer</responsibleParty>
+                <title>解决方案</title>
                 <steps>
                     <step>
                         <cmd>清理电脑内存，确保可用空间大于安装包大小。</cmd>

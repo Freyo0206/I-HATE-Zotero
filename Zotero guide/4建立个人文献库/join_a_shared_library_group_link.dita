@@ -2,7 +2,6 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="join_a_shared_library_group_link">
     <title>加入群组共享文献库——群组链接</title>
-    <shortdesc>本节将指导您如何通过群组链接加入一个Zotero群组共享文献库。</shortdesc>
 
     <taskbody>
         <prereq id="prereq_rsw_grn_ldc">确保您拥有一个Zotero账户，并且在桌面端已经登录。同时，您需要知道共享文献库群组的链接。</prereq>
@@ -11,12 +10,13 @@
                 <cmd>在浏览器中打开从群组管理员或邀请人那里获取的群组链接，如图所示。</cmd>
                 <info><image
                         href="%E5%9B%BE%E7%89%87/%E5%8A%A0%E5%85%A5%E7%BE%A4%E7%BB%84-%E9%93%BE%E6%8E%A5.png"
-                        width="500" height="340" id="image_dn4_wrn_ldc"/></info>
+                        width="500" height="340" id="image_dn4_wrn_ldc" align="center"/></info>
             </step>
             <step>
                 <cmd>打开链接后即可申请加入，加入后您将能够看到共享的文献库。同时，加入的群组也会同步到桌面端上，如图所示。</cmd>
                 <info><image href="%E5%9B%BE%E7%89%87/%E6%A1%8C%E9%9D%A2%E7%AB%AFlibrary.png"
-                        width="500" height="340" id="image_l5g_2sn_ldc"/></info>
+                        width="500" height="340" id="image_l5g_2sn_ldc" align="center"
+                        xml:lang="zh-CN"/></info>
             </step>
         </steps>
         <result id="result_wdr_3sn_ldc">您已成功加入群组并可以访问共享文献库。</result>

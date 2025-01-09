@@ -1,35 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
 <topic id="toolbar">
-    <title>工具栏功能</title>
+    <title>3.2 工具栏功能</title>
     <shortdesc>文献库工具栏位于Zotero界面的顶部，提供了快速访问常用功能的按钮和选项。</shortdesc>
     <body>
-        <section id="section_lmr_ltv_ldc"><title>新建条目</title><p>用户可以手动创建一个新的文献条目。这个功能主要用于以下几种情况：1.
-                当用户没有现成的文献信息，或者文献信息不完整，需要手动输入；2.
-                添加非标准格式的文献，有些文献可能没有在线数据库或数据库中没有收录，或者用户需要添加一些非标准的文献类型（如个人通信、会议论文等）；3.
-                添加未发表的文献。</p><image
+        <section id="section_lmr_ltv_ldc"><title>新建条目</title><p>您可以手动创建一个新的文献条目。此功能主要用于以下几种情况：1.
+                文献信息不完整时，需要手动输入；2. 添加非标准格式的文献（如个人通信、会议论文等），或者在线数据库中没有收录的文献；3. 添加未发表的文献。</p><image
                 href="%E5%9B%BE%E7%89%87/%E6%96%B0%E5%BB%BA%E6%9D%A1%E7%9B%AE.png" width="500"
-                height="350" id="image_mfd_l5v_ldc"/></section>
+                height="350" id="image_mfd_l5v_ldc" align="center"/></section>
         <section id="section_p1c_p5v_ldc"><title>通过标识码添加条目
-                </title><p>用户通过输入文献的ISBN号、数字对象标识符（DOI）、PubMed
-                ID等唯一标识符来自动添加文献条目到Zotero库中。这个功能特别适合于快速添加文献和批量添加文献，并且可以确保信息的准确性。</p>
+                </title><p>您可以通过输入文献的ISBN号、数字对象标识符（DOI）、PubMed
+                ID等唯一标识符自动添加文献条目到Zotero文献库中。此功能适合于快速和批量添加文献，可以确保信息的准确性。</p>
             <image
                 href="%E5%9B%BE%E7%89%87/%E6%A0%87%E8%AF%86%E7%A0%81%E6%B7%BB%E5%8A%A0%E6%9D%A1%E7%9B%AE.png"
-                width="500" height="350" id="image_fqc_1vv_ldc"/></section>
+                width="500" height="350" id="image_fqc_1vv_ldc" align="center"/></section>
         <section id="section_utd_2pz_kdc"
-                ><title>添加文献</title><p>用户可以通过点击工具栏上的“添加”按钮来添加新的文献条目到他们的文库中。这个功能通常用于导入本地的文件。</p>
+                ><title>添加文献</title><p>您可以通过点击工具栏上的“添加”按钮来添加新的文献条目到文献库。此功能通常用于导入本地的文件。</p>
             <image href="%E5%9B%BE%E7%89%87/%E6%B7%BB%E5%8A%A0%E6%96%87%E7%8C%AE0.png" width="500"
-                height="350" id="image_xpv_nsv_ldc"/></section>
+                height="350" id="image_xpv_nsv_ldc" align="center"/></section>
         <section id="section_hxv_cvv_ldc">
             <title>新建笔记</title>
-            <p>用户可以在Zotero库中为特定的文献条目添加笔记，以记录阅读文献时的想法、评论、摘要或任何其他相关信息。</p>
+            <p>用户可以为特定的文献条目添加笔记，以记录阅读文献时的想法、评论、摘要或任何其他相关信息。</p>
             <p><image href="%E5%9B%BE%E7%89%87/%E6%B7%BB%E5%8A%A0%E7%AC%94%E8%AE%B0.png" width="500"
-                    id="image_xj5_lxg_mdc"/></p>
+                    id="image_xj5_lxg_mdc" align="center"/></p>
         </section>
         <section id="section_r5y_bqz_kdc"
-                ><title>搜索与筛选</title><p>工具栏提供了一个搜索框，用户可以在这里输入关键词来搜索整个文库。此外，还有筛选器功能，允许用户根据特定的条件（如文献类型、创建日期等）来筛选文献。</p>
+                ><title>搜索与筛选</title><p>工具栏提供了一个搜索框，您可以在这里输入关键词搜索整个文库。此外，还有筛选器功能，可以根据特定的条件（如文献类型、创建日期等）来筛选文献。</p>
             <image href="%E5%9B%BE%E7%89%87/%E6%90%9C%E7%B4%A2%E4%B8%8E%E7%AD%9B%E9%80%890.png"
-                width="500" height="350" id="image_ggg_rsv_ldc"/></section>
+                width="500" height="350" id="image_ggg_rsv_ldc" align="center"/></section>
         <note id="note_l2d_nvv_ldc">关于具体功能的实际操作，会在后续相应章节展开。</note>
     </body>
 </topic>

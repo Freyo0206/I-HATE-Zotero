@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="download_browser_plug_in">
-    <title>下载并安装Zotero浏览器插件</title>
+    <title>5.3.2 下载并安装Zotero浏览器插件</title>
     <taskbody>
         <context>
             <p></p>
@@ -16,7 +16,7 @@
                 <cmd>根据您使用的浏览器选择对应版本的Zotero Connector插件，比如，Edge浏览器用户选择界面右侧的Connector，点击下载。</cmd>
                 <info><image
                         href="%E6%88%AA%E5%9B%BE/1%20%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6%E4%B8%8B%E8%BD%BD%E7%95%8C%E9%9D%A2.png"
-                        width="600" id="image_v4g_3fk_ldc"/></info>
+                        width="500" id="image_v4g_3fk_ldc" align="center"/></info>
             </step>
             <step>
                 <cmd>如需下载其他浏览器的插件，点击右侧<uicontrol>展开</uicontrol>按钮<image
@@ -24,7 +24,7 @@
                         width="40" id="image_tly_zfk_ldc"/>，即能下载对应版本插件。</cmd>
                 <info><image
                         href="%E6%88%AA%E5%9B%BE/3%20%E5%85%B6%E4%BB%96%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6.png"
-                        width="600" id="image_bmd_bgk_ldc"/></info>
+                        width="500" id="image_bmd_bgk_ldc" align="center"/></info>
             </step>
             <step>
                 <cmd>下载好插件后，安装插件，macOS用户可能需要在Safari"偏好设置"中启用Zotero插件。</cmd>
@@ -37,8 +37,9 @@
                         <info><image
                                 href="%E6%88%AA%E5%9B%BE/4%20%E6%8F%92%E4%BB%B6%E6%AD%A3%E5%B8%B8%E5%AE%89%E8%A3%85%E5%9B%BE%E6%A0%87.png"
                                 width="600" id="image_bf5_bpk_ldc"/></info>
-                        <info>如遇其他问题，请访问<xref href="https://forums.zotero.org/discussions/"
-                                format="html" scope="external"/>。</info>
+                        <info xml:lang="zh-CN">如遇其他问题，请访问<xref
+                                href="https://forums.zotero.org/discussions/" format="html"
+                                scope="external"/>。</info>
                     </substep>
                 </substeps>
             </step>

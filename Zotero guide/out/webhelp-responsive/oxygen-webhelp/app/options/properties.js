@@ -8,7 +8,7 @@ var properties =
     "webhelp.enable.sticky.publication.toc" : "yes",
     "webhelp.enable.sticky.topic.toc" : "yes",
     "webhelp.enable.template.js.module.loading" : "no",
-    "webhelp.language" : "en",
+    "webhelp.language" : "zh-CN",
     "webhelp.publication.toc.links" : "chapter",
     "webhelp.publication.toc.tooltip.position" : "right",
     "webhelp.search.default.operator" : "or",
@@ -16,7 +16,7 @@ var properties =
     "webhelp.search.page.numberOfItems" : "10",
     "webhelp.search.ranking" : "true",
     "webhelp.show.full.size.image" : "true",
-    "webhelp.show.main.page.tiles" : "yes",
-    "webhelp.show.main.page.toc" : "no",
+    "webhelp.show.main.page.tiles" : "no",
+    "webhelp.show.main.page.toc" : "yes",
     "webhelp.top.menu.depth" : "3",
     "webhelp.topic.collapsible.elements.initial.state" : "expanded" };

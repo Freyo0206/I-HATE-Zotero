@@ -4,15 +4,16 @@
     <title>插件安装后没有显示在工具栏</title>
     <troublebody>
         <condition>
-            <p/>
+            <title>问题描述</title>
+            <p>插件安装完毕后，网页工具栏并没有显示Zotero图标。</p>
         </condition>
         <troubleSolution>
-            <cause>
+            <cause xml:lang="zh-CN">
                 <title>原因</title>
-                <p>插件安装完毕后，网页工具栏并没有显示Zotero图标。</p>
+                <p>扩展程序未正确安装。</p>
             </cause>
             <remedy>
-                <title>解决办法</title>
+                <title>解决方案</title>
                 <steps>
                     <step>
                         <cmd>重启浏览器。</cmd>

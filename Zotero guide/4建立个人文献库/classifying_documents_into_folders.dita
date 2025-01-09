@@ -1,25 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="classifying_documents_into_folders">
-    <title>将文献分类到文件夹</title>
-    <shortdesc>本节指导您如何将文献资料分配到Zotero中的不同文件夹，以实现有效的文献管理。</shortdesc>
+    <title>4.2 将文献分类到文件夹</title>
+    <shortdesc>本节介绍如何将文献资料分配到不同文件夹，以实现有效的文献管理。</shortdesc>
     <taskbody>
-        <prereq id="prereq_c1g_5bk_ldc">确保您已经在Zotero中创建了所需的文件夹，并且已经添加了一些文献资料。</prereq>
-        <context>
-            <p>本任务的目的是教授您如何将文献资料分类到Zotero中的不同文件夹，以便能够快速找到所需的文献，并保持文献库的整洁和有序。正确地分类文献不仅有助于提高工作效率，还能确保在撰写学术论文或报告时引用的准确性。</p>
-        </context>
+        <prereq id="prereq_c1g_5bk_ldc">请确保您已经在Zotero中创建了所需的文件夹，并且已经添加了一些文献资料。</prereq>
         <steps>
             <step>
                 <cmd>在页面中间的文献库内选择您想要分类的文献。您可以通过单击选择单个文献，或按住Ctrl（或Cmd）键同时选择多个文献，如图所示。</cmd>
                 <info><image
                         href="%E5%9B%BE%E7%89%87/%E5%B0%86%E6%96%87%E7%8C%AE%E5%88%86%E7%B1%BB%E5%88%B0%E6%96%87%E4%BB%B6%E5%A4%B9-%E9%80%89%E4%B8%AD%E6%96%87%E7%8C%AE.png"
-                        width="500" height="390" id="image_wy1_3ck_ldc"/></info>
+                        width="500" height="390" id="image_wy1_3ck_ldc" align="center"/></info>
             </step>
             <step>
                 <cmd>右键点击选中的文献，并从上下文菜单中选择<uicontrol>添加到分类</uicontrol>选项，然后选择目标文件夹，如图所示。</cmd>
                 <info><image
                         href="%E5%9B%BE%E7%89%87/%E5%B0%86%E6%96%87%E7%8C%AE%E5%88%86%E7%B1%BB%E5%88%B0%E6%96%87%E4%BB%B6%E5%A4%B9-%E5%8F%B3%E9%94%AE%E9%80%89%E4%B8%AD%E6%96%87%E7%8C%AE.png"
-                        width="500" height="390" id="image_m2g_rck_ldc"/></info>
+                        width="500" height="390" id="image_m2g_rck_ldc" align="center"
+                        xml:lang="zh-CN"/></info>
             </step>
         </steps>
         <result id="result_s4s_bdk_ldc">选中的文献将被移动到指定的文件夹中，您可以在该文件夹下查看和管理这些文献。</result>
