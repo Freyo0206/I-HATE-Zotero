@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE topic PUBLIC "-//OASIS//DTD DITA Topic//EN" "topic.dtd">
-<topic id="sync_cover">
-    <title xml:lang="zh-CN">文献同步与备份</title>
-    <shortdesc>本章节深入讲解Zotero的同步机制，包括如何注册并登录账户、如何同步数据与文件，还介绍了如何备份以保持跨设备的数据一致性，维护文献资料的完整性和可用性。</shortdesc>
-    <body/>
-</topic>

@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"delete_single_item-d895e463":{"topics":[{"title":"清空回收站","shortdesc":"<p class=\"shortdesc\">从文库中移除的条目都会储存在回收站中，大量条目可能会占用内存空间。用户可以根据需要清空回收站。<\/p>","href":"5文献导入与删除\/文献导入与删除-Zotero\/2%20删除文献\/清空回收站.html","attributes":{"data-id":"清空回收站"},"menu":{"hasChildren":false},"tocID":"清空回收站-d895e471","topics":[]}]}};
